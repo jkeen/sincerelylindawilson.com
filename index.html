@@ -1,0 +1,24 @@
+---
+layout: default
+title: Linda Wilson Has A Problem
+---
+{% for post in site.posts %}
+  {% if post.type == "original" %}
+  <div class="letter">
+    <h2 class="letter-title">
+      <a href="topics/{{ post.category }}">{{ post.title }}</a>
+    </h2>
+    <span class="letter-date">
+      {{ post.date | date_to_long_string }}
+    </span> &raquo; 
+    
+    <div class="letter-content">
+      {{ post.content }}
+    </div>
+    
+
+    {{ post.category | show_more }}
+
+  </div>
+	{% endif %}
+{% endfor %}

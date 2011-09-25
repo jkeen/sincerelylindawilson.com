@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 214
+layout: post
+title: TurboTax
+date: 2010-04-13 20:38:00 -05:00
+category: turbotax
+type: original
+---
+Dear TurboTax,
+
+I am trying to use your product this year to complete my tax filing as my 2010 New Year's resolution is to embrace technology. 
+
+While I am pleased with how easy it is enter my tax information, I have some concerns with my results. When I entered the site, I was notified that the service would cost me $49.95. However, I am about to file my taxes and the website is telling me it wants to pay me $1,650.00 dollars.
+
+There must be some sort of error in your programâ€”I would just like to pay the fee to use your service to file. 
+
+I am also concerned that this will cause me to file my taxes late. Can I get written permission from you to allow me to be a day or two late on my tax return?
+
+Sincerely,
+
+Linda Wilson
+
+P.S. Please respond quicklyâ€”taxes are due on April 15th this year.

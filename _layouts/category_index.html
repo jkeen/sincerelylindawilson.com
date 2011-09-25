@@ -1,0 +1,41 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+	<div id="main" class="wrapper full-exchange">
+    <div class="content">
+      {% for post in site.categories[page.category] reversed %}
+      <div class="letter">
+        {% if post.type == "original" %}
+          <h2 class="letter-title">
+            {{ post.title }}
+          </h2>
+        {% endif %}
+          <span class="letter-date">
+            {{ post.date | date_to_long_string }}
+          </span> &raquo; 
+
+          <div class="letter-content">
+            {{ post.content | markdownify }}
+          </div>
+        {% if post.type == "original" %}
+          <span id="response"></span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% include letter_list.html %}
+	</div>
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
+
+
+

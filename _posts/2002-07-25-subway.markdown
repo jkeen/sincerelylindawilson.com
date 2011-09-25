@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 5
+layout: post
+title: Subway
+date: 2002-07-25 08:15:53 -05:00
+category: subway
+type: original
+---
+Dear Subway,
+
+Last month I purchased what I believed to be a 6 inch veggie sub. When I got home, I measured it, and it wasn't quite 6 inches. Was this just a mistake during my visit, or are they all not quite 6 inches? I just don't want people to get shorted a single millimeter of your delicious sandwiches.
+
+Also, I would like information on opening my own Subway location.
+
+Thanks for your time,
+
+Linda B. Wilson

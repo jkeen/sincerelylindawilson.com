@@ -11,8 +11,8 @@ Thank you for contacting us with your inquiry.
 
 Please call: 1/800-651-6000 and a Member Services Representative will be happy to assist you. 
 
-Sincerely,
+Sincerely,  
 Ivonne 
 
-Customer Service Associate
+Customer Service Associate  
 Weight Watchers International,  Inc.

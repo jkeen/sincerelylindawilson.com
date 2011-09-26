@@ -16,6 +16,6 @@ In our long history, we've found that the best support for people in need of ass
 
 In addition, the Community section of our site allows you to correspond with other people who are using Weight Watchers to help them lose weight. It's a great place for tip sharing and inspiration.
 
-Sincerely, 
-Renata 
+Sincerely,   
+Renata  
 Customer Service Associate 

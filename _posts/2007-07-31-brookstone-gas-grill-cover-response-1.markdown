@@ -13,8 +13,7 @@ We apologize you have experienced problems using your grill cover. The cover is 
 
 Please let us know if we may be of further assistance.
 
-Sincerely,
-
+Sincerely,  
 Elisha
 
 Brookstone.com Customer Service

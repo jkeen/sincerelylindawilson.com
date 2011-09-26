@@ -14,5 +14,5 @@ Before I commit to purchasing, though, I'd like more information about the secre
 
 Can the car be delivered to our house sometime between midnight and 5am (when my husband will surely be asleep)? Also, is it possible to pay for the car after my husband has received it? 
 
-Thank you,
+Thank you,  
 Linda B. Wilson

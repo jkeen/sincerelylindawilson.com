@@ -9,6 +9,6 @@ Linda,
 
 We refer to white papers as a guide or report to help inform potential customers on a specific product or service we offer. I apologize if this was not clear in our advertisement.
 
-Tim F--------z
-E-Commerce Support
-CDW
+Tim  
+E-Commerce Support  
+CDW  

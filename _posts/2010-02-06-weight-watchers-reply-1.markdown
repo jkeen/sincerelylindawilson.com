@@ -11,5 +11,5 @@ I have not been able to attend a meeting in person yet, as the closest Weight Wa
 
 I'm interested in using the internet for support if possible, but I'm not quite sure which message board to post my question regarding the predicament I described. "What I Ate Today" seemed like a good choice, but now that some time is passed since the incident, writing about what I ate a week ago doesn't seem appropriate.  Do you have suggestions for the best forum to handle such a question?
 
-Thank you,
+Thank you,  
 Linda Wilson

@@ -16,5 +16,5 @@ I'm wondering if I received a defective product, or if I'm doing something incor
 
 Also, do you know where I can get a copy of the June, 4th, 1967 Chicago Tribune printing of Archie?  It's the one where Jughead enters an eating contest.
 
-Sincerely, 
+Sincerely,   
 Linda Wilson

@@ -11,4 +11,4 @@ Oh dear, am I already in trouble?  I do not want to provide my account informati
 
 What do I need to do to continue being a valued Blockbuster customer?  How much additional money do I need to pay in order to own "Alvin and the Chipmunks: The Squeakquel"?  Hopefully after purchasing the movie in full, we can consider this matter resolved.
 
-LindaÂ Wilson
+Linda Wilson

@@ -8,8 +8,10 @@ require 'rack-rewrite'
 use Rack::StaticCache, :urls => ['/images','/css','/favicon.ico', '/js', '/apple-touch-icon.png', 'robots.txt'], :root => "_site"
 use Rack::ETag
 use Rack::Rewrite do
-  # rewrite %r{/wiki/(\w+)_\w+}, '/$1'
-  rewrite %r{(.+)}, '$1/index.html'
+  rewrite '/', '/index.html'  
+  rewrite '/feed', '/atom.xml'
+  rewrite %r{(.+/?)$}, '$1/index.html'
+  # rewrite %r{(.+)}, '$1index.html'
 end
 
 

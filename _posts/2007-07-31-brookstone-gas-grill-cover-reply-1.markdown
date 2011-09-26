@@ -9,5 +9,5 @@ I'm very disappointed to hear that, but it makes sense now that I think about it
 
 I am still interested in protecting my grill while cooking, though.  Do you offer a product that has higher tolerance for heat, perhaps with vent holes?  I would really like to keep my grill in good condition.  It would also be great if that product came in green, like the one I have.
 
-Thanks for your help,
+Thanks for your help,  
 Linda B. Wilson

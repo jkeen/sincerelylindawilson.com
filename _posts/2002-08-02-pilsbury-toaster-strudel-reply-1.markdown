@@ -7,6 +7,5 @@ category: pilsbury-toaster-strudel
 ---
 Thank you for your prompt reply. I am looking forward to seeing your new and improved ad campaign. I will keep an eye out for it.
 
-Thanks again,
-
+Thanks again,  
 Linda B. Wilson

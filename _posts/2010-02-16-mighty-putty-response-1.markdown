@@ -11,6 +11,6 @@ Please be advised that this putty IS NOT the silly putty of yesteryear. It is an
 
 You'll need to return it to the store where you purchased it.
 
-Sincerely,
+Sincerely,  
 Customer Service
 Plymouth Direct

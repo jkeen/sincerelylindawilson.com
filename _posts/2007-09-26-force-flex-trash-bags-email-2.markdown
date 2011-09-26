@@ -14,5 +14,5 @@ Surprisingly, the shards of broken glass and several boards with nails were no m
 
 I was wondering if the bags I purchased are defective, or if Iâ€™m using them incorrectly? Should I have double bagged? Do you have a product that is designed to withstand greater force?
 
-Sincerely,
+Sincerely,  
 Linda B. Wilson

@@ -20,7 +20,7 @@ module Jekyll
        letters.each do |category, data|
          if data[:title] #only take originals
            html << "<li>"
-           html << %Q{<a href="/topics/#{category}">#{data[:title]}</a>}
+           html << %Q{<a class="box-link" href="/letters/#{category}">#{data[:title]}</a>}
            html << "<span>#{data[:count]}</span>" if data[:count] > 1
            html << "</li>"
          end

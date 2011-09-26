@@ -13,7 +13,7 @@ Unfortunately, we do not carry the product you have requested, nor do we have a 
 
 We appreciate your interest in Brookstone products and hope that we can be of service to you in the future.
 
-Sincerely,
+Sincerely,  
 Elisha
 
 Brookstone.com Customer Service

@@ -15,7 +15,7 @@ While I now see that your melting guarantee doesn't cover the candies while not 
 
 Would it be possible to put a warning on future bags of M&Ms warning customers that severe melting could occur if kept in pants pockets for extended periods of time?
 
-Sincerely,
+Sincerely,  
 Linda B. Wilson
 
 P.S. Do Peanut M&Ms suffer from the same problems as the plain variety?

@@ -4,6 +4,7 @@ layout: post
 title: Pilsbury Toaster Strudel
 date: 2002-07-30 00:00:52 -05:00
 category: pilsbury-toaster-strudel
+company: Pilsbury
 type: original
 ---
 Dear Pilsbury,
@@ -14,5 +15,5 @@ First, what kind of mother gives their boy a Pop Tart for breakfast? Breakfast i
 
 Also, is that boy ready to handle the responsibility of carrying a garage door opener around? If he loses it he gives anyone access to the house. That is a very big risk that mother is taking.  Also, how did the parents not notice the pop tarts piling up in the garage?  With that sort of lack of attention, I can't imagine what else they haven't noticed. 
 
-Thank you for your time,
+Thank you for your time,  
 Linda B Wilson

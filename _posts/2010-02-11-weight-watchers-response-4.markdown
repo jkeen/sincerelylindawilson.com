@@ -11,7 +11,7 @@ Thank you for getting back to Weight Watchers.
 
 Please feel free to contact a Member Services Representative at 1-800-651-6000.  Weight Watchers National Customer Service Center is open Monday through Thursday from 7:00 a.m. - 8:00 p.m. CST, Friday 7:00 a.m. - 7:00 p.m. CST and Saturday 7:00 a.m. - 3:00 p.m. CST. 
 
-Sincerely,
-Kurli 
-Customer Service Associate
+Sincerely,  
+Kurli   
+Customer Service Associate  
 Weight Watchers International,  Inc.

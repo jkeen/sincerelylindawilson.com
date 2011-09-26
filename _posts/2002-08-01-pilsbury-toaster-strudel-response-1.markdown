@@ -11,8 +11,7 @@ Thank you for contacting Pillsbury.  We are sorry you were disappointed with our
 
 We appreciate your interest and hope you continue to enjoy our products.
 
-Sincerely,
-
-Julie Carlson
-General Mills
+Sincerely,    
+Julie Carlson  
+General Mills  
 Consumer Services

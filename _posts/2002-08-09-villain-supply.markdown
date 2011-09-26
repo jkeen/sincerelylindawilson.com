@@ -25,6 +25,5 @@ The hole isn't included?? For $29.49, I would think the hole must be included. N
 
 I think this product should be re-evaluated.
 
-Thank you for your time,
-
+Thank you for your time,  
 Linda B. Wilson

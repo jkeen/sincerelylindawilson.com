@@ -8,5 +8,5 @@ category: easy-bake-oven
 Ms. Wilson, Your email concerning a recent incident with with your daughter's Easy Bake Oven has been forwarded to me for response but didn't have a phone number for you. Please call me at 1-800-XXX-7276, ext.
 XXXX at your convenience to discuss. Thank you.
 
-Christine M----n
+Christine M----n  
 Office of Corporate Compliance

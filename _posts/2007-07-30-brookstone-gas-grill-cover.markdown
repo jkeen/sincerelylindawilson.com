@@ -5,6 +5,7 @@ title: Brookstone Gas Grill Cover
 date: 2007-07-30 11:36:08 -05:00
 category: brookstone-gas-grill-cover
 type: original
+company: Brookstone
 ---
 Dear Brookstone,
 
@@ -14,5 +15,5 @@ Also, when grilling, smoke seems to gather under the cover and pour out of the b
 
 Are the problems I've described common with this product, or am I simply grilling at a higher temperature than recommended?
 
-Sincerely,
+Sincerely,  
 Linda Wilson

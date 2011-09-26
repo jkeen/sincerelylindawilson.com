@@ -7,6 +7,7 @@ category: mighty-putty
 ---
 Linda,
 
-I was forwarded your email about our product, Mighty Putty. Iâ€™m afraid that you have us confused with the product Silly Putty.
+I was forwarded your email about our product, Mighty Putty. I'm afraid that you have us confused with the product Silly Putty.
 
-Thanks, Cheryl
+Thanks,  
+Cheryl

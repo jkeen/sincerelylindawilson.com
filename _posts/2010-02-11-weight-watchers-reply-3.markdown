@@ -4,6 +4,7 @@ layout: post
 title: "Weight Watchers: Reply #3"
 date: 2010-02-11 11:51:24 -06:00
 category: weight-watchers
+type: reply
 ---
 Dear Ivonne,
 

@@ -4,6 +4,7 @@ layout: post
 title: Blockbuster Video
 date: 2010-03-02 16:09:57 -06:00
 category: blockbuster
+type: reply
 ---
 Maricar,
 

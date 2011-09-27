@@ -234,10 +234,6 @@ header h2 {
   font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
-header nav {
-  float:right;
-}
-
 header nav ul li{
 	display:inline;
 }
@@ -254,6 +250,7 @@ a:hover {
 }
 
 a.box-link, a.box-link:visited {
+  white-space:nowrap;
   padding:3px 6px;
   background-color:#EEE;
   border:1px solid #DDD;
@@ -288,16 +285,18 @@ a.view-response:hover {
   border-color:#861C17;
 }
 
-
+header nav {
+  margin-top:10px;
+}
 
 .wrapper{
   margin:auto;
   max-width:890px;
-  padding: 10px;
+  padding: 10px 15px;
 }
 
 .letter + .letter {
-  padding-top:20px;
+  padding-top:10px;
   margin-top:20px;
 }
 
@@ -323,7 +322,7 @@ a.view-response:hover {
 
 .letter-date {
   font-family:Georgia;
-  color:#999;
+  color:#666;
   font-size:15px;
 }
 
@@ -346,6 +345,20 @@ a.view-response:hover {
   margin:10px 0;
 }
 
+.letter-list li {
+  position:relative;
+}
+
+.letter-list li.favorite:before {
+  position:absolute;
+  left:-15px;
+  top:7px;
+  content:"★";
+  font-size:11px;
+  color:#E7A8A0;
+  margin-right:5px;
+}
+
 .letter-list span {
   color:#FF4833;
   display:inline-block;
@@ -353,6 +366,26 @@ a.view-response:hover {
   font-size:10px;
 }
 
+.notes {
+  font-size:13px;
+  padding:5px;
+  margin-left:-5px;
+  background-color:#FFFEF5;
+}
+
+.address {
+  font-weight:normal;
+  font-size:15px;
+  margin:0;
+  color:#555;
+  padding:3px 5px;
+  position:relative;
+  left:-18px;
+}
+
+.address:before {
+  content: "»";
+} 
 
 #footer {
   display:block;
@@ -411,18 +444,24 @@ a.view-response:hover {
   .letter-list {
     float:right;
     width:30%;
-    min-width:200px;
+  }
+  header, footer {
+    clear:left;
+    overflow:hidden;
   }
   header nav {
     position:relative;
-    top:15px;
+    margin-top:-35px;
     width:30%;
+    display:block;
+    float:right;
+    clear:both;
   }
+  
 }
 
 @media only screen and (min-width: 768px) {
   /* Style adjustments for viewports 768px and over go here */
-
 }
 
 

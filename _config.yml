@@ -6,6 +6,5 @@ lsi: false
 markdown: rdiscount
 pygments: true
 permalink: /:title
-paginate: 10
 category_dir: letters
 exclude: Gemfile, Gemfile.lock, config.ru

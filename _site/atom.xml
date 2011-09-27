@@ -3,7 +3,7 @@
   <title>Complainist</title>
   <link href="http://complainist.com/atom.xml" rel="self"/>
   <link href="http://complainist.com/"/>
-  <updated>2011-09-26T17:06:22-05:00</updated>
+  <updated>2011-09-26T21:21:41-05:00</updated>
   <id>http://complainist.com/</id>
   <author>
     <name>Linda Wilson</name>
@@ -557,7 +557,7 @@ Linda Wilson&lt;/p&gt;
     <id>http://complainist.com/force-flex-trash-bags-email-2</id>
     <content type="html">&lt;p&gt;Dear Glad,&lt;/p&gt;
 
-&lt;p&gt;Recently my family and I organized a neighborhood cleanup after our neighborâ€™s house was vandalized by a local gang. We chose to use your Force Flex bags to gather up the debris because of the highly-acclaimed â€œpuncture protectionâ€ your brand offers, while other brands do not.&lt;/p&gt;
+&lt;p&gt;Recently my family and I organized a neighborhood cleanup after our neighbor's house was vandalized by a local gang. We chose to use your Force Flex bags to gather up the debris because of the highly-acclaimed &quot;puncture protection&quot; your brand offers, while other brands do not.&lt;/p&gt;
 
 &lt;p&gt;Surprisingly, the shards of broken glass and several boards with nails were no match for these bags. I was disappointed and embarrassed that the bags I publicly supported broke and spilled their contents in front of all my neighbors.&lt;/p&gt;
 
@@ -645,7 +645,7 @@ Linda Wilson&lt;/p&gt;
     <link href="http://complainist.com/letters/tempur-pedic"/>
     <updated>2004-06-03T11:26:10-05:00</updated>
     <id>http://complainist.com/tempur-pedic-action-taken</id>
-    <content type="html">&lt;p&gt;As of June, 2003, Tempur-pedic's new commercials now do not use the &quot;glass of red wine&quot; example, but rather a &quot;glass of water&quot; example.  We have made a difference.&lt;/p&gt;
+    <content type="html">&lt;p&gt;As of June 2003, Tempur-pedic's new commercials now do not use the &quot;glass of red wine&quot; example, but rather a &quot;glass of water&quot; example.  We have made a difference.&lt;/p&gt;
 </content>
   </entry>
   
@@ -817,11 +817,13 @@ Linda B Wilson&lt;/p&gt;
     <updated>2002-07-25T11:16:46-05:00</updated>
     <id>http://complainist.com/subway-response-1</id>
     <content type="html">&lt;p&gt;Dear Mrs. Wilson,
-Thank you for contacting Subway.  I have received your comments and need to have a more exact location of the store you visited because there are several in the area.  Secondly, with requests for franchise information, you can call 1-800-888-4848 ext 1315 but I will also email your requests to that department.
-Have a great day!
-Thank You,&lt;br/&gt;
+Thank you for contacting Subway.  I have received your comments and need to have a more exact location of the store you visited because there are several in the area.  Secondly, with requests for franchise information, you can call 1-800-888-4848 ext 1315 but I will also email your requests to that department.&lt;/p&gt;
+
+&lt;p&gt;Have a great day!&lt;/p&gt;
+
+&lt;p&gt;Thank You,  &lt;br/&gt;
 Robin P-----r&lt;br/&gt;
-SUBWAYÂ® World Headquarters&lt;br/&gt;
+SUBWAY ® World Headquarters&lt;br/&gt;
 Customer Care Representative&lt;/p&gt;
 </content>
   </entry>

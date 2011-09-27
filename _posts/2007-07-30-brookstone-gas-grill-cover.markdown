@@ -6,6 +6,7 @@ date: 2007-07-30 11:36:08 -05:00
 category: brookstone-gas-grill-cover
 type: original
 company: Brookstone
+favorite: true
 ---
 Dear Brookstone,
 

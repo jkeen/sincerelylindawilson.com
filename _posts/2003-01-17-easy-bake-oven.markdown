@@ -6,6 +6,7 @@ date: 2003-01-17 00:00:09 -06:00
 category: easy-bake-oven
 company: Hasbro
 type: original
+favorite: true
 ---
 Dear Mr. Hasbro,
 

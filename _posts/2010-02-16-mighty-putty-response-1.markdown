@@ -4,6 +4,7 @@ layout: post
 title: "Mighty Putty: Response #1"
 date: 2010-02-16 15:14:32 -06:00
 category: mighty-putty
+type: response
 ---
 Thank you for your eMail.
 

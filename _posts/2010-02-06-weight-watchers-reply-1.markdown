@@ -4,6 +4,7 @@ layout: post
 title: "Weight Watchers: Reply #1"
 date: 2010-02-06 16:10:56 -06:00
 category: weight-watchers
+type: reply
 ---
 Dear Renatta,
 

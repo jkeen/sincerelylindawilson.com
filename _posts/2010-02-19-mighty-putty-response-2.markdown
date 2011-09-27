@@ -4,6 +4,7 @@ layout: post
 title: "Mighty Putty: Response #2"
 date: 2010-02-19 14:48:57 -06:00
 category: mighty-putty
+type: response
 ---
 Linda,
 

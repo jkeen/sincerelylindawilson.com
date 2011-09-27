@@ -4,6 +4,7 @@ layout: post
 title: "Tostitos Scoops: Response #1"
 date: 2007-11-30 10:23:44 -06:00
 category: tostitos-scoops
+type: response
 ---
 We appreciate your comments.  We do our best to provide consumers with a wide
 variety of great-tasting snack food choices.  Our chips are made to accompany

@@ -4,6 +4,8 @@ layout: post
 title: "Free Whitepaper: Response #1"
 date: 2008-08-06 23:21:41 -05:00
 category: free-whitepaper
+company: CDW
+type: response
 ---
 Linda,
 

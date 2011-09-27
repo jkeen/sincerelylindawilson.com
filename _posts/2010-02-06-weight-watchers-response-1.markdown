@@ -4,6 +4,7 @@ layout: post
 title: "Weight Watchers: Response #1"
 date: 2010-02-06 15:27:24 -06:00
 category: weight-watchers
+type: response
 ---
 We apologize if our response was delayed. This is a busy time of year for us and our e-mail volume is very high. We appreciate your patience during this busy time.
 

@@ -5,6 +5,7 @@ title: Clue
 date: 2010-03-02 14:58:16 -06:00
 category: clue
 type: original
+company: Parker Brothers
 ---
 Dear Parker Brothers, 
 

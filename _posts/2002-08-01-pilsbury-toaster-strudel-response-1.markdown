@@ -4,6 +4,8 @@ layout: post
 title: "Pilsbury Toaster Strudel: Response #1"
 date: 2002-08-01 00:00:47 -05:00
 category: pilsbury-toaster-strudel
+type: response
+company: Pilsbury
 ---
 Dear Ms. Wilson:
 

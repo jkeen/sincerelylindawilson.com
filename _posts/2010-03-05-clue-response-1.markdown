@@ -4,6 +4,8 @@ layout: post
 title: "Clue: Response #1"
 date: 2010-03-05 18:57:35 -06:00
 category: clue
+type: response
+company: Parker Brothers
 ---
 Dear Linda,
 

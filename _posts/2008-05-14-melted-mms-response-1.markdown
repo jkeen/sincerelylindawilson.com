@@ -4,6 +4,8 @@ layout: post
 title: "Melted M&Ms: Response #1"
 date: 2008-05-14 15:22:09 -05:00
 category: m-and-ms
+company: M&Ms
+type: response
 ---
 Thank you for your email.
 

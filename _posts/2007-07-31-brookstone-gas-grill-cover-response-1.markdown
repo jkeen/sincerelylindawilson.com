@@ -4,6 +4,7 @@ layout: post
 title: "Brookstone Gas Grill Cover: Response #1"
 date: 2007-07-31 09:36:49 -05:00
 category: brookstone-gas-grill-cover
+type: response
 ---
 Dear Ms. Wilson,
 

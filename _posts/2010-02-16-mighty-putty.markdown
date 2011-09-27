@@ -5,6 +5,7 @@ title: Mighty Putty
 date: 2010-02-16 12:57:37 -06:00
 category: mighty-putty
 type: original
+favorite: true
 ---
 Dear Mighty Putty,
 

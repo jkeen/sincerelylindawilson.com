@@ -4,6 +4,7 @@ layout: post
 title: "Weight Watchers: Response #4"
 date: 2010-02-11 19:21:23 -06:00
 category: weight-watchers
+type: response
 ---
 Dear Linda,
 

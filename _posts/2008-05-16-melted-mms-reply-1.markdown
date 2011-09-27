@@ -4,6 +4,8 @@ layout: post
 title: "Melted M&Ms: Reply #1"
 date: 2008-05-16 14:48:17 -05:00
 category: m-and-ms
+company: M&Ms
+type: reply
 ---
 Dear M&Ms,
 

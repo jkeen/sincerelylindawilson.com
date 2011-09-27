@@ -5,6 +5,7 @@ title: Blockbuster Video
 date: 2010-03-02 16:09:06 -06:00
 title: Blockbuster Video
 category: blockbuster
+type: response
 ---
 Hi Linda,
 

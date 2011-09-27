@@ -4,6 +4,9 @@ layout: post
 title: "Easy Bake Oven: Response #1"
 date: 2003-01-22 11:22:48 -06:00
 category: easy-bake-oven
+type: response
+company: Hasbro
+
 ---
 Hi Linda,
 

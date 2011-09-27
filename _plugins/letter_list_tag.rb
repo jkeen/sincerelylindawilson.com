@@ -12,14 +12,18 @@ module Jekyll
          letters[category][:title] = title if type == "original"
          letters[category][:count] ||= 0
          letters[category][:count] += 1
-         letters[category][:date] = post.data['date']
+         letters[category][:favorite] ||= post.data['favorite']
        end
        
        html = "<ul>"
        letters = letters.sort_by { |l| l[1][:date] }.reverse # sort by date
        letters.each do |category, data|
          if data[:title] #only take originals
-           html << "<li>"
+           if data[:favorite]
+             html << "<li class='favorite'>"
+           else
+             html << "<li>"
+           end
            html << %Q{<a class="box-link" href="/letters/#{category}">#{data[:title]}</a>}
            html << "<span>#{data[:count]}</span>" if data[:count] > 1
            html << "</li>"

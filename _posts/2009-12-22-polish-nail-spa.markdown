@@ -5,6 +5,7 @@ title: Polish Nail Spa
 date: 2009-12-22 13:51:31 -06:00
 category: polish-nail-spa
 type: original
+editors_note: It's polish, as in shiny, but I liked to think of it as Polish, as in Poland.
 ---
 Dear Polish Nail Spa,
 

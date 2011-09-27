@@ -4,6 +4,7 @@ layout: post
 title: "Subway: Reply 1"
 date: 2002-07-26 10:15:57 -05:00
 category: subway
+type: reply
 ---
 Dear Mr. Potter,
 

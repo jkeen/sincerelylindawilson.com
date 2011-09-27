@@ -4,6 +4,7 @@ layout: post
 title: "Weight Watchers: Reply #4"
 date: 2010-02-16 13:04:57 -06:00
 category: weight-watchers
+type: reply
 ---
 Dear Kurli,
 

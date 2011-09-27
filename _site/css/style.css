@@ -205,7 +205,7 @@ table { border-collapse: collapse; border-spacing: 0; }
    ================== */
 
 body{
-  font-size: 18px;
+  font-size: 17px;
   font-family: Georgia, Times New Roman;
   border-top:5px solid #FF4833;
 }
@@ -350,11 +350,15 @@ header nav {
 }
 
 .letter-list li.favorite:before {
+  display:block;
+  content:" ";
   position:absolute;
   left:-15px;
-  top:7px;
-  content:"★";
+  top:5px;
+  background:transparent url(/images/star.png) no-repeat;
   font-size:11px;
+  width:15px;
+  height:15px;
   color:#E7A8A0;
   margin-right:5px;
 }

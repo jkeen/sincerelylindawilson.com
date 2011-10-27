@@ -10,10 +10,9 @@ use Rack::ETag
 use Rack::Rewrite do
   rewrite '/', '/index.html'  
   rewrite '/feed', '/atom.xml'
+  rewrite %r{(.+/?)(\?.*)$}, '$1/index.html$2'
   rewrite %r{(.+/?)$}, '$1/index.html'
-  # rewrite %r{(.+)}, '$1index.html'
 end
-
 
 # Middleware
 use Rack::ShowStatus      # Nice looking 404s and other messages

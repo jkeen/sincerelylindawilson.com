@@ -19,5 +19,5 @@ I really appreciate your willingness to try and get to the bottom of this situat
 
 What kind of tests will need to be run? If his symptoms subside before our flight, is that all right? I'll be in Milwaukee in a few days for work, and I could stop by the stockyards and collect some more water, if that would help. 
 
-Sincerely,
+Sincerely,  
 Linda B. Wilson

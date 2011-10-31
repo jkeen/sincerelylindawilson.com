@@ -3,7 +3,7 @@
   <title>Complainist</title>
   <link href="http://complainist.com/atom.xml" rel="self"/>
   <link href="http://complainist.com/"/>
-  <updated>2011-10-31T10:32:24-05:00</updated>
+  <updated>2011-10-31T10:44:20-05:00</updated>
   <id>http://complainist.com/</id>
   <author>
     <name>Linda Wilson</name>
@@ -64,7 +64,7 @@ Alan Lizee&lt;/p&gt;
 
 &lt;p&gt;What kind of tests will need to be run? If his symptoms subside before our flight, is that all right? I'll be in Milwaukee in a few days for work, and I could stop by the stockyards and collect some more water, if that would help.&lt;/p&gt;
 
-&lt;p&gt;Sincerely,
+&lt;p&gt;Sincerely,&lt;br/&gt;
 Linda B. Wilson&lt;/p&gt;
 </content>
   </entry>

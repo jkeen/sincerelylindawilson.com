@@ -5,6 +5,7 @@ date: 2012-10-25 20:15:00 -05:00
 category: water-filter
 type: original
 company: Katadyn
+favorite: true
 ---
 Dear Katadyn,
 

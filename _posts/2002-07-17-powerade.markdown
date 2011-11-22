@@ -4,7 +4,7 @@ layout: post
 title: PowerAde
 date: 2002-07-17 16:00:20 -05:00
 category: powerade
-type: original
+type: hidden
 ---
 Dear Mr. or Ms. Powerade,
 

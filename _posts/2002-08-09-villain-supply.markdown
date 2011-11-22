@@ -4,7 +4,7 @@ layout: post
 title: Villain Supply
 date: 2002-08-09 11:21:15 -05:00
 category: villain-supply
-type: original
+type: hidden
 ---
 Dear Mr. Villian,
 

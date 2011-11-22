@@ -4,7 +4,7 @@ layout: post
 title: Papa Johns
 date: 2002-07-17 11:09:52 -05:00
 category: papa-johns
-type: original
+type: hidden
 editors_note: Papa Johns used to have a stupid commercial that advertised competitors having gimmicky pizzas. One of those pizzas was a volcano pizza.
 ---
 Dear Mr. John

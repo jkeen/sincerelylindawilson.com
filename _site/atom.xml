@@ -3,7 +3,7 @@
   <title>Complainist</title>
   <link href="http://complainist.com/atom.xml" rel="self"/>
   <link href="http://complainist.com/"/>
-  <updated>2011-11-21T21:31:40-06:00</updated>
+  <updated>2011-12-19T23:02:01-06:00</updated>
   <id>http://complainist.com/</id>
   <author>
     <name>Linda Wilson</name>
@@ -11,10 +11,28 @@
   </author>
   
   <entry>
+    <title>The MSU Reporter</title>
+    <link href="http://complainist.com/letters/msu-reporter"/>
+    <updated>2012-11-01T11:42:00-05:00</updated>
+    <id>http://complainist.com/the-msu-reporter</id>
+    <content type="html">&lt;p&gt;Dear Them Sure Porter,&lt;/p&gt;
+
+&lt;p&gt;I was searching for someone reliable to carry my bags for my upcoming trip to Branson, Missouri, and came across your web site. However, it seems your site has been &quot;hacked&quot; and taken over by some sort of college newspaper.&lt;/p&gt;
+
+&lt;p&gt;I was hoping to get a good porter, as I will have to move between multiple hotels during my five night stay in Branson.&lt;/p&gt;
+
+&lt;p&gt;Do you still offer porter services, or have you shut down?&lt;/p&gt;
+
+&lt;p&gt;Thanks,&lt;br/&gt;
+Linda Wilson&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Katadyn Water Filter</title>
     <link href="http://complainist.com/letters/water-filter"/>
     <updated>2012-11-01T11:42:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-response-4</id>
+    <id>http://complainist.com/katadyn-water-filter-response-4 copy</id>
     <content type="html">&lt;p&gt;Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your response.  I wish you and your family the best in the future.&lt;/p&gt;

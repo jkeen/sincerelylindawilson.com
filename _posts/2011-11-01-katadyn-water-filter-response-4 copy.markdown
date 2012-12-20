@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Katadyn Water Filter
-date: 2012-11-01 11:42:00 -05:00
+date: 2011-11-01 11:42:00 -05:00
 category: water-filter
 type: response
 company: Katadyn

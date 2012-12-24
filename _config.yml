@@ -1,5 +1,3 @@
-# permalink: n
-
 auto: true
 server: true
 lsi: false
@@ -7,4 +5,4 @@ markdown: rdiscount
 pygments: true
 permalink: /:title
 category_dir: letters
-exclude: Gemfile, Gemfile.lock, config.ru
+exclude: [Gemfile, Gemfile.lock, config.ru, development]

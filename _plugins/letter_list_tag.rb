@@ -17,6 +17,16 @@ module Jekyll
        
        html = "<ul>"
        letters = letters.sort_by { |l| l[1][:date] }.reverse # sort by date
+       
+       
+       html << print_letters(letters)
+       
+       html << "</ul>"
+       html
+     end
+     
+     def print_letters(letters)
+       html = ""
        letters.each do |category, data|
          if data[:title] #only take originals
            if data[:favorite]
@@ -29,8 +39,8 @@ module Jekyll
            html << "</li>"
          end
        end
-       html << "</ul>"
-       html
+       
+       return html
      end
   end
 end

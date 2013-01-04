@@ -6,6 +6,7 @@ date: 2010-01-29 15:23:41 -06:00
 category: weight-watchers
 type: original
 favorite: true
+image: /images/pizza.jpg
 ---
 Dear Weight Watchers,
 

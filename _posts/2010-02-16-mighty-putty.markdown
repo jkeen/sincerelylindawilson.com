@@ -6,6 +6,7 @@ date: 2010-02-16 12:57:37 -06:00
 category: mighty-putty
 type: original
 favorite: true
+image: /images/mighty_putty.jpg
 ---
 Dear Mighty Putty,
 

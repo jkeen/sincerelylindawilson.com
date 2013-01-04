@@ -5,6 +5,7 @@ title: Covert Ford
 date: 2008-08-25 23:38:14 -05:00
 category: covert-ford
 type: original
+image: /images/covert_ford.jpg
 ---
 Dear Covert Ford,
 

@@ -5,6 +5,7 @@ date: 2012-12-20 16:42:00 -05:00
 category: jazzercise
 type: original
 company: Jazzercise
+image: /images/jazzercise.png
 ---
 
 Dear Jazzercise,

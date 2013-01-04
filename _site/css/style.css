@@ -287,6 +287,16 @@ header nav {
   margin-top:10px;
 }
 
+.header-image {
+  margin-top:10px;
+  border-radius:5px;
+  height:150px;
+  width:auto;
+  background-position:top center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
 .wrapper{
   margin:auto;
   max-width:890px;

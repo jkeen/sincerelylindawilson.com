@@ -11,6 +11,11 @@ title: Where I complain to companies about ridiculous things, under the guise of
     <span class="letter-date">
       {{ post.date | date_to_long_string }}
     </span>
+    {% if post.image %}
+    <div class="header-image" style="background-image:url( {{ post.image }} )">
+            
+    </div>
+    {% endif %}
     {{ post.editors_note | editors_note }}
     
     <div class="letter-content">

@@ -6,6 +6,7 @@ category: water-filter
 type: original
 company: Katadyn
 favorite: true
+image: /images/stockyards.jpg
 ---
 Dear Katadyn,
 

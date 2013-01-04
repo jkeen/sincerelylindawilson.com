@@ -7,6 +7,7 @@ category: brookstone-gas-grill-cover
 type: original
 company: Brookstone
 favorite: true
+image: /images/grill.jpg
 ---
 Dear Brookstone,
 

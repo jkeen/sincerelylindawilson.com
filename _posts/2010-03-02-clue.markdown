@@ -6,6 +6,7 @@ date: 2010-03-02 14:58:16 -06:00
 category: clue
 type: original
 company: Parker Brothers
+image: /images/clue.png
 ---
 Dear Parker Brothers, 
 

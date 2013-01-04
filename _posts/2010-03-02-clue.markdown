@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 188
 layout: post
 title: Clue
@@ -6,17 +6,17 @@ date: 2010-03-02 14:58:16 -06:00
 category: clue
 type: original
 company: Parker Brothers
-image: /images/clue.png
+image: /images/clue.jpg
 ---
-Dear Parker Brothers, 
+Dear Parker Brothers,
 
-Last Sunday I caught my youngest son, Aaron, playing Clue with his friends in our rumpus room after I had finished cleaning up after his birthday party. I loved playing Clue as a child, so when Aaron had some questions about the gameplay, I was happy to assist. While paging through the rulebook, I noticed that the listed age range was "8 and up", which brings me to the reason for this letter. My son is six, and his friends range from the age of five and a half to seven. I'm afraid the violent nature of the game may be damaging to children younger than the recommended age range. What changes should I watch for in my son to assure he hasn't been affected by this game? What experiences have other customers had? 
+Last Sunday I caught my youngest son, Aaron, playing Clue with his friends in our rumpus room after I had finished cleaning up after his birthday party. I loved playing Clue as a child, so when Aaron had some questions about the gameplay, I was happy to assist. While paging through the rulebook, I noticed that the listed age range was "8 and up", which brings me to the reason for this letter. My son is six, and his friends range from the age of five and a half to seven. I'm afraid the violent nature of the game may be damaging to children younger than the recommended age range. What changes should I watch for in my son to assure he hasn't been affected by this game? What experiences have other customers had?
 
-I haven't broken the news to his friends' parents yet, as I thought I would consult with you first. Needless to say, I have confiscated the game, and will only allow him to play it when he has reached the age of eight. 
+I haven't broken the news to his friends' parents yet, as I thought I would consult with you first. Needless to say, I have confiscated the game, and will only allow him to play it when he has reached the age of eight.
 
 Have you thought about creating a Clue-type game more appropriate for young children? How about a game where you have to solve who threw the surprise party in what room, and using what party favor? The options could be streamers, party hats, kazoos, and balloons. You could even reuse the same game board.
 
 Also, do you have any recommendations for currently available board games more appropriate for a six year old?
 
-Sincerely,    
+Sincerely,
 Linda Wilson

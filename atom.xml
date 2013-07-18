@@ -3,11 +3,11 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Complainist</title>
-  <link href="http://complainist.com/atom.xml" rel="self"/>
-  <link href="http://complainist.com/"/>
+  <title>Sincerely, Linda Wilson</title>
+  <link href="http://sincerelylindawilson.com/atom.xml" rel="self"/>
+  <link href="http://sincerelylindawilson.com/"/>
   <updated>{{site.time | date_to_xmlschema }}</updated>
-  <id>http://complainist.com/</id>
+  <id>http://sincerelylindawilson.com/</id>
   <author>
     <name>Linda Wilson</name>
     <email></email>
@@ -15,9 +15,9 @@ layout: nil
   {% for post in site.posts %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
-    <link href="http://complainist.com/letters/{{post.category}}"/>
+    <link href="http://sincerelylindawilson.com/letters/{{post.category}}"/>
     <updated>{{post.date | date_to_xmlschema }}</updated>
-    <id>http://complainist.com{{ post.id }}</id>
+    <id>http://sincerelylindawilson.com{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}

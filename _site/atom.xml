@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Complainist</title>
-  <link href="http://complainist.com/atom.xml" rel="self"/>
-  <link href="http://complainist.com/"/>
-  <updated>2013-01-04T11:02:27-06:00</updated>
-  <id>http://complainist.com/</id>
+  <title>Sincerely, Linda Wilson</title>
+  <link href="http://sincerelylindawilson.com/atom.xml" rel="self"/>
+  <link href="http://sincerelylindawilson.com/"/>
+  <updated>2013-07-18T09:04:32-05:00</updated>
+  <id>http://sincerelylindawilson.com/</id>
   <author>
     <name>Linda Wilson</name>
     <email></email>
@@ -12,9 +12,9 @@
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-22T09:50:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-reply-4</id>
+    <id>http://sincerelylindawilson.com/jazzercise-reply-4</id>
     <content type="html">&lt;p&gt;I think it was the Northwest location, although I'm embarrassed to admit I'm not sure—my husband drove me at the time, we're from out of town, and Richard is a terrible driver so we got lost! I remember it being close to a restaurant, because we got lunch after the session.&lt;/p&gt;
 
 &lt;p&gt;And oh dear, I'll have to see if I can digitalize my cassette. I think my son has a machine that can do that.&lt;/p&gt;
@@ -25,9 +25,9 @@
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-21T17:48:20-06:00</updated>
-    <id>http://complainist.com/jazzercise-response-4</id>
+    <id>http://sincerelylindawilson.com/jazzercise-response-4</id>
     <content type="html">&lt;p&gt;Linda&lt;/p&gt;
 
 &lt;p&gt;Our instructors play their music through iPods. Which location did you attend? We have Lakeline Fitness Center and Northwest Rec Center.&lt;/p&gt;
@@ -38,54 +38,54 @@
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-21T16:35:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-reply-3</id>
+    <id>http://sincerelylindawilson.com/jazzercise-reply-3</id>
     <content type="html">&lt;p&gt;Great, I'll bring my &quot;Live At The Acropolis&quot; cassette to the next workout!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-21T15:42:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-response-3</id>
+    <id>http://sincerelylindawilson.com/jazzercise-response-3</id>
     <content type="html">&lt;p&gt;The music changes every few weeks. There are hundreds of songs. You'll have to talk to your individual instructor.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-21T10:02:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-reply-2</id>
+    <id>http://sincerelylindawilson.com/jazzercise-reply-2</id>
     <content type="html">&lt;p&gt;Great, can I see what's on the list?&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-21T09:55:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-response-2</id>
+    <id>http://sincerelylindawilson.com/jazzercise-response-2</id>
     <content type="html">&lt;p&gt;Our instructors have music and routines provided by the jazzercise corporate office. If it is a song in their list then yes, they will take requests.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-21T09:42:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-reply-1</id>
+    <id>http://sincerelylindawilson.com/jazzercise-reply-1</id>
     <content type="html">&lt;p&gt;Do you take requests?&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-20T18:10:00-06:00</updated>
-    <id>http://complainist.com/jazzercise-response-1</id>
+    <id>http://sincerelylindawilson.com/jazzercise-response-1</id>
     <content type="html">&lt;p&gt;Linda&lt;/p&gt;
 
 &lt;p&gt;I'm sorry you were disappointed. Jazzercise actually plays mostly current music. I hope you'll try another class soon.&lt;/p&gt;
@@ -94,9 +94,9 @@
   
   <entry>
     <title>Jazzercise</title>
-    <link href="http://complainist.com/letters/jazzercise"/>
+    <link href="http://sincerelylindawilson.com/letters/jazzercise"/>
     <updated>2012-12-20T15:42:00-06:00</updated>
-    <id>http://complainist.com/jazzercise</id>
+    <id>http://sincerelylindawilson.com/jazzercise</id>
     <content type="html">&lt;p&gt;Dear Jazzercise,&lt;/p&gt;
 
 &lt;p&gt;I've gained some weight recently since I started trying to save money
@@ -125,9 +125,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>The MSU Reporter</title>
-    <link href="http://complainist.com/letters/msu-reporter"/>
+    <link href="http://sincerelylindawilson.com/letters/msu-reporter"/>
     <updated>2011-11-01T11:42:00-05:00</updated>
-    <id>http://complainist.com/the-msu-reporter copy</id>
+    <id>http://sincerelylindawilson.com/the-msu-reporter copy</id>
     <content type="html">&lt;p&gt;Dear Them Sure Porter,&lt;/p&gt;
 
 &lt;p&gt;I was searching for someone reliable to carry my bags for my upcoming trip to Branson, Missouri, and came across your web site. However, it seems your site has been &quot;hacked&quot; and taken over by some sort of college newspaper.&lt;/p&gt;
@@ -143,9 +143,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-11-01T11:42:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-response-4 copy</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-response-4 copy</id>
     <content type="html">&lt;p&gt;Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your response.  I wish you and your family the best in the future.&lt;/p&gt;
@@ -156,9 +156,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-11-01T11:29:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-reply-3</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-reply-3</id>
     <content type="html">&lt;p&gt;Dear Alan,&lt;/p&gt;
 
 &lt;p&gt;Last night at dinner, Aaron was talking about his field trip, and I was asking him questions in order to make sure that his illness was caused by a faulty water filter. Apparently on the bus ride home that afternoon, some of his classmates found a package of spoiled hot dogs on the floor, and dared Aaron to eat some.&lt;/p&gt;
@@ -178,9 +178,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-11-01T09:18:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-response-3</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-response-3</id>
     <content type="html">&lt;p&gt;Linda,&lt;/p&gt;
 
 &lt;p&gt;I think that we should resolve this issue.  I initially asked a variety of questions about potential ways that your son may have become sick after drinking water from a puddle in an animal stockyard.  The most important question was if he carefully read the instructions, especially the part of how to use the filter.  Then, depending on the situation, we would perhaps return the unit to Switzerland for testing.  You did not answer any of the questions and interpreted my letter as an offer to fly your family to Switzerland, perhaps in a private jet.  You say that you already started packing and learning the language.  Our communication gap is great.&lt;/p&gt;
@@ -194,9 +194,9 @@ Alan Lizee&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-10-31T10:00:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-reply-2</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-reply-2</id>
     <content type="html">&lt;p&gt;Dear Alan,&lt;/p&gt;
 
 &lt;p&gt;I think I owe you an apology. I misunderstood your previous email, and assumed Katadyn would be flying my family to Switzerland for testing. I'm embarrassed to admit that I already started packing and learning the language. My daughter was excited to visit IKEA headquarters, too. This news will be disappointing to my whole family.&lt;/p&gt;
@@ -214,9 +214,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-10-31T09:39:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-response-2</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-response-2</id>
     <content type="html">&lt;p&gt;Linda,
 I must assume that you are kidding.  Did you read my message to you?  There are many ways that a person can get sick and have the symptoms that your son had.  If, after reading all of the potential reasons, including your son carefully reading the manual and taking all precautions, you still truly believe that the filter may be to blame, I offered to perhaps test the filter.  There is no scenario where we will fly your son to Switzerland.&lt;/p&gt;
 
@@ -231,9 +231,9 @@ Alan Lizee&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-10-31T08:12:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-reply-1</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-reply-1</id>
     <content type="html">&lt;p&gt;Dear Alan,&lt;/p&gt;
 
 &lt;p&gt;Thank you so much for your reply.&lt;/p&gt;
@@ -253,9 +253,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter: Response #1</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-10-28T18:43:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter-response-1</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter-response-1</id>
     <content type="html">&lt;p&gt;Linda,&lt;/p&gt;
 
 &lt;p&gt;Your inquiry is important and I hope that your son is doing better.  It’s unfortunate that this coincided with the Science Fair that was so important to him.&lt;/p&gt;
@@ -290,9 +290,9 @@ Katadyn North America&lt;/p&gt;
   
   <entry>
     <title>Katadyn Water Filter</title>
-    <link href="http://complainist.com/letters/water-filter"/>
+    <link href="http://sincerelylindawilson.com/letters/water-filter"/>
     <updated>2011-10-25T20:15:00-05:00</updated>
-    <id>http://complainist.com/katadyn-water-filter</id>
+    <id>http://sincerelylindawilson.com/katadyn-water-filter</id>
     <content type="html">&lt;p&gt;Dear Katadyn,&lt;/p&gt;
 
 &lt;p&gt;I have recently become concerned over the impurities in public drinking water, and did research on the most environmentally friendly microfilter I could use to protect my children from bacterial dangers. I recently purchased one of your Hiker model Katadyn microfilters and was very excited to start being more environmentally conscious, while at the same time enjoying natural and pure water.&lt;/p&gt;
@@ -308,9 +308,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>TurboTax</title>
-    <link href="http://complainist.com/letters/turbotax"/>
+    <link href="http://sincerelylindawilson.com/letters/turbotax"/>
     <updated>2010-04-13T20:38:00-05:00</updated>
-    <id>http://complainist.com/turbotax</id>
+    <id>http://sincerelylindawilson.com/turbotax</id>
     <content type="html">&lt;p&gt;Dear TurboTax,&lt;/p&gt;
 
 &lt;p&gt;I am trying to use your product this year to complete my tax filing as my 2010 New Year's resolution is to embrace technology.&lt;/p&gt;
@@ -330,9 +330,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Clue: Reply #1</title>
-    <link href="http://complainist.com/letters/clue"/>
+    <link href="http://sincerelylindawilson.com/letters/clue"/>
     <updated>2010-03-09T10:54:24-06:00</updated>
-    <id>http://complainist.com/clue-reply-1</id>
+    <id>http://sincerelylindawilson.com/clue-reply-1</id>
     <content type="html">&lt;p&gt;Dear Stephanie,&lt;/p&gt;
 
 &lt;p&gt;Thank you for you response.  I am interested in finding a more appropriate game for my son to play, but am concerned that &quot;Clue Carnival: The Case Of The Missing Prizes&quot; might encourage stealing, as the original clue seems to have encouraged some violent tendencies in my young son.&lt;/p&gt;
@@ -350,9 +350,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Clue: Response #1</title>
-    <link href="http://complainist.com/letters/clue"/>
+    <link href="http://sincerelylindawilson.com/letters/clue"/>
     <updated>2010-03-05T18:57:35-06:00</updated>
-    <id>http://complainist.com/clue-response-1</id>
+    <id>http://sincerelylindawilson.com/clue-response-1</id>
     <content type="html">&lt;p&gt;Dear Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for contacting us regarding Hasbro's Clue game. We appreciate your taking the time to bring this matter to our attention.&lt;/p&gt;
@@ -371,9 +371,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Blockbuster Video</title>
-    <link href="http://complainist.com/letters/blockbuster"/>
+    <link href="http://sincerelylindawilson.com/letters/blockbuster"/>
     <updated>2010-03-02T16:09:57-06:00</updated>
-    <id>http://complainist.com/blockbuster-video-reply-1</id>
+    <id>http://sincerelylindawilson.com/blockbuster-video-reply-1</id>
     <content type="html">&lt;p&gt;Maricar,&lt;/p&gt;
 
 &lt;p&gt;Oh dear, am I already in trouble?  I do not want to provide my account information, as I fear that you may suspend it due to my recent actions.  I did not intend to steal from Blockbuster, and hope we can resolve this matter without involving the authorities.&lt;/p&gt;
@@ -386,9 +386,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Blockbuster Video</title>
-    <link href="http://complainist.com/letters/blockbuster"/>
+    <link href="http://sincerelylindawilson.com/letters/blockbuster"/>
     <updated>2010-03-02T16:09:06-06:00</updated>
-    <id>http://complainist.com/blockbuster-video-response-1</id>
+    <id>http://sincerelylindawilson.com/blockbuster-video-response-1</id>
     <content type="html">&lt;p&gt;Hi Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for contacting Blockbuster Customer Care.&lt;/p&gt;
@@ -406,9 +406,9 @@ Blockbuster Customer Care&lt;/p&gt;
   
   <entry>
     <title>Clue</title>
-    <link href="http://complainist.com/letters/clue"/>
+    <link href="http://sincerelylindawilson.com/letters/clue"/>
     <updated>2010-03-02T14:58:16-06:00</updated>
-    <id>http://complainist.com/clue</id>
+    <id>http://sincerelylindawilson.com/clue</id>
     <content type="html">&lt;p&gt;Dear Parker Brothers,&lt;/p&gt;
 
 &lt;p&gt;Last Sunday I caught my youngest son, Aaron, playing Clue with his friends in our rumpus room after I had finished cleaning up after his birthday party. I loved playing Clue as a child, so when Aaron had some questions about the gameplay, I was happy to assist. While paging through the rulebook, I noticed that the listed age range was &quot;8 and up&quot;, which brings me to the reason for this letter. My son is six, and his friends range from the age of five and a half to seven. I'm afraid the violent nature of the game may be damaging to children younger than the recommended age range. What changes should I watch for in my son to assure he hasn't been affected by this game? What experiences have other customers had?&lt;/p&gt;
@@ -426,9 +426,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Mighty Putty: Response #2</title>
-    <link href="http://complainist.com/letters/mighty-putty"/>
+    <link href="http://sincerelylindawilson.com/letters/mighty-putty"/>
     <updated>2010-02-19T14:48:57-06:00</updated>
-    <id>http://complainist.com/mighty-putty-response-2</id>
+    <id>http://sincerelylindawilson.com/mighty-putty-response-2</id>
     <content type="html">&lt;p&gt;Linda,&lt;/p&gt;
 
 &lt;p&gt;I was forwarded your email about our product, Mighty Putty. I'm afraid that you have us confused with the product Silly Putty.&lt;/p&gt;
@@ -440,9 +440,9 @@ Cheryl&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Response #5</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-17T18:49:11-06:00</updated>
-    <id>http://complainist.com/weight-watchers-response-5</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-response-5</id>
     <content type="html">&lt;p&gt;Dear Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your additional concerns.&lt;/p&gt;
@@ -458,9 +458,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Mighty Putty: Reply #1</title>
-    <link href="http://complainist.com/letters/mighty-putty"/>
+    <link href="http://sincerelylindawilson.com/letters/mighty-putty"/>
     <updated>2010-02-16T15:16:13-06:00</updated>
-    <id>http://complainist.com/mighty-putty-reply-1</id>
+    <id>http://sincerelylindawilson.com/mighty-putty-reply-1</id>
     <content type="html">&lt;p&gt;Oh dear, that is very disappointing to hear, but makes sense now that I think about it.  When I left it out on the counter, my son kept playing with it and tried making impressions of my car keys. I called him away to help me clean up his room, and when I came back the putty had hardened around the car keys.  Do you know how I can remove it?  I can't start my car, and I have an appointment I need to be getting to soon.&lt;/p&gt;
 
 &lt;p&gt;Do you still sell the silly variety of your putty?&lt;/p&gt;
@@ -471,9 +471,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Mighty Putty: Response #1</title>
-    <link href="http://complainist.com/letters/mighty-putty"/>
+    <link href="http://sincerelylindawilson.com/letters/mighty-putty"/>
     <updated>2010-02-16T15:14:32-06:00</updated>
-    <id>http://complainist.com/mighty-putty-response-1</id>
+    <id>http://sincerelylindawilson.com/mighty-putty-response-1</id>
     <content type="html">&lt;p&gt;Thank you for your eMail.&lt;/p&gt;
 
 &lt;p&gt;Please be advised that this putty IS NOT the silly putty of yesteryear. It is an epoxy used to glue things together. It is not intended to be used by a child. If it dries to something it will not come off.&lt;/p&gt;
@@ -488,9 +488,9 @@ Plymouth Direct&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Reply #4</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-16T13:04:57-06:00</updated>
-    <id>http://complainist.com/weight-watchers-reply-4</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-reply-4</id>
     <content type="html">&lt;p&gt;Dear Kurli,&lt;/p&gt;
 
 &lt;p&gt;What are your hours this week?  Would it be possible for someone to stay until 8:30pm so I can get some help without incurring an overage fee?&lt;/p&gt;
@@ -501,9 +501,9 @@ Plymouth Direct&lt;/p&gt;
   
   <entry>
     <title>Mighty Putty</title>
-    <link href="http://complainist.com/letters/mighty-putty"/>
+    <link href="http://sincerelylindawilson.com/letters/mighty-putty"/>
     <updated>2010-02-16T12:57:37-06:00</updated>
-    <id>http://complainist.com/mighty-putty</id>
+    <id>http://sincerelylindawilson.com/mighty-putty</id>
     <content type="html">&lt;p&gt;Dear Mighty Putty,&lt;/p&gt;
 
 &lt;p&gt;I have great memories of playing with your putty as a child, so when I saw your product in the store the other day, I bought it for my son, Aaron.&lt;/p&gt;
@@ -521,9 +521,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Response #4</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-11T19:21:23-06:00</updated>
-    <id>http://complainist.com/weight-watchers-response-4</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-response-4</id>
     <content type="html">&lt;p&gt;Dear Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for getting back to Weight Watchers.&lt;/p&gt;
@@ -539,9 +539,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Reply #3</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-11T11:51:24-06:00</updated>
-    <id>http://complainist.com/weight-watchers-reply-3</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-reply-3</id>
     <content type="html">&lt;p&gt;Dear Ivonne,&lt;/p&gt;
 
 &lt;p&gt;I tried calling yesterday evening, but your offices were closed. How late is customer support open?&lt;/p&gt;
@@ -556,9 +556,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Response #3</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-10T17:19:40-06:00</updated>
-    <id>http://complainist.com/weight-watchers-response-3</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-response-3</id>
     <content type="html">&lt;p&gt;Dear Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for contacting us with your inquiry.&lt;/p&gt;
@@ -575,9 +575,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Reply #2</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-09T12:25:58-06:00</updated>
-    <id>http://complainist.com/weight-watchers-reply-2</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-reply-2</id>
     <content type="html">&lt;p&gt;Dear Kurli,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your response.  I thought I was already signed up for Weight Watchers online, but perhaps I am mistaken.  I've been having some trouble with my credit card lately, so I'm wondering if it got declined when signing up, which would explain why you can't find my information. Do you accept Diner's club?  What information do I need to provide you in order to become an online subscriber and get my question answered?&lt;/p&gt;
@@ -592,9 +592,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Response #2</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-08T22:21:05-06:00</updated>
-    <id>http://complainist.com/weight-watchers-response-2</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-response-2</id>
     <content type="html">&lt;p&gt;Dear Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for contacting us with your inquiry.  As we stated in our previous email, the online Customer Service Team is here primarily to provide technical support to Weight WatchersÂ® Online subscribers and to answer general questions about meetings and other services.  We do not have the proper experience to address your specific weight loss questions.  Therefore, it would be best to consult with your Leader regarding any concerns you may have after you join Weight Watchers.&lt;/p&gt;
@@ -608,9 +608,9 @@ Weight Watchers International,  Inc.&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Reply #1</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-06T16:10:56-06:00</updated>
-    <id>http://complainist.com/weight-watchers-reply-1</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-reply-1</id>
     <content type="html">&lt;p&gt;Dear Renatta,&lt;/p&gt;
 
 &lt;p&gt;I have not been able to attend a meeting in person yet, as the closest Weight Watchers meeting location is 15 miles away, and my car has been acting up lately, so I haven't been able to drive further than a few miles away from my home. I hope to attend a meeting as soon as I have time to take my car over to my long time mechanic, Lyle Christiansen, for its regular service.&lt;/p&gt;
@@ -624,9 +624,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers: Response #1</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-02-06T15:27:24-06:00</updated>
-    <id>http://complainist.com/weight-watchers-response-1</id>
+    <id>http://sincerelylindawilson.com/weight-watchers-response-1</id>
     <content type="html">&lt;p&gt;We apologize if our response was delayed. This is a busy time of year for us and our e-mail volume is very high. We appreciate your patience during this busy time.&lt;/p&gt;
 
 &lt;p&gt;Dear Linda,
@@ -646,9 +646,9 @@ Customer Service Associate&lt;/p&gt;
   
   <entry>
     <title>Weight Watchers</title>
-    <link href="http://complainist.com/letters/weight-watchers"/>
+    <link href="http://sincerelylindawilson.com/letters/weight-watchers"/>
     <updated>2010-01-29T15:23:41-06:00</updated>
-    <id>http://complainist.com/weight-watchers</id>
+    <id>http://sincerelylindawilson.com/weight-watchers</id>
     <content type="html">&lt;p&gt;Dear Weight Watchers,&lt;/p&gt;
 
 &lt;p&gt;I've been a member for a few months now, and it's been really helpful having the support and tools to help me control my weight.  I have a couple of questions I'm hoping someone can answer, though.&lt;/p&gt;
@@ -663,9 +663,9 @@ Customer Service Associate&lt;/p&gt;
   
   <entry>
     <title>Blockbuster Video</title>
-    <link href="http://complainist.com/letters/blockbuster"/>
+    <link href="http://sincerelylindawilson.com/letters/blockbuster"/>
     <updated>2010-01-04T18:54:39-06:00</updated>
-    <id>http://complainist.com/blockbuster-video</id>
+    <id>http://sincerelylindawilson.com/blockbuster-video</id>
     <content type="html">&lt;p&gt;Dear Blockbuster,&lt;/p&gt;
 
 &lt;p&gt;I recently rented some movies from you over the weekend and saw a disturbing FBI message at the beginning of one of the films: &quot;DVD FOR SALE ONLY&quot;.  I do not want to get in trouble with the FBI, as I have had some tax problems in the past, and do not want to press my luck.  What do I need to do to safely resolve this situation?  Can I purchase the film in question from you for the original cost minus the cost of the rental (which I already paid)?  Will that be enough to keep me out of trouble?&lt;/p&gt;
@@ -679,9 +679,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Polish Nail Spa</title>
-    <link href="http://complainist.com/letters/polish-nail-spa"/>
+    <link href="http://sincerelylindawilson.com/letters/polish-nail-spa"/>
     <updated>2009-12-22T13:51:31-06:00</updated>
-    <id>http://complainist.com/polish-nail-spa</id>
+    <id>http://sincerelylindawilson.com/polish-nail-spa</id>
     <content type="html">&lt;p&gt;Dear Polish Nail Spa,&lt;/p&gt;
 
 &lt;p&gt;My family is hosting a foreign exchange student from Poland for the next few months, and I'm looking for things for her to do in town that might make her feel more at home. What types of services you offer that might suit a Polish customer? Do you serve any Polish themed foods during nail care, or play any Polish music?&lt;/p&gt;
@@ -693,27 +693,27 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Covert Ford: Response #2</title>
-    <link href="http://complainist.com/letters/covert-ford"/>
+    <link href="http://sincerelylindawilson.com/letters/covert-ford"/>
     <updated>2008-08-31T20:58:55-05:00</updated>
-    <id>http://complainist.com/covert-ford-response-2</id>
+    <id>http://sincerelylindawilson.com/covert-ford-response-2</id>
     <content type="html">&lt;p&gt;Mrs Wilson,  we can do this purchase any way you want to do it.  We would love to help you surprise your husband!  Call me at [XXX-XXXX] when you get a chance.  I won't be in the office until about 10.00 this am.  Thanks&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title> Covert Ford: Response #1</title>
-    <link href="http://complainist.com/letters/covert-ford"/>
+    <link href="http://sincerelylindawilson.com/letters/covert-ford"/>
     <updated>2008-08-31T18:23:10-05:00</updated>
-    <id>http://complainist.com/covert-auto-responses-1</id>
+    <id>http://sincerelylindawilson.com/covert-auto-responses-1</id>
     <content type="html">&lt;p&gt;Linda- Sure! I've been here for over a decade and could regal you with lots of fun gift purchases/surprises. Let's start with what kind of dream truck you're looking for ? cell [XXX-XXXX] or e-mail . Ready to surprise!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Covert Ford</title>
-    <link href="http://complainist.com/letters/covert-ford"/>
+    <link href="http://sincerelylindawilson.com/letters/covert-ford"/>
     <updated>2008-08-25T23:38:14-05:00</updated>
-    <id>http://complainist.com/covert-ford</id>
+    <id>http://sincerelylindawilson.com/covert-ford</id>
     <content type="html">&lt;p&gt;Dear Covert Ford,&lt;/p&gt;
 
 &lt;p&gt;My husband's birthday is coming up shortly, and he's been wanting a new truck for some time now.  Since I'd like this to be a surprise, I thought Covert Ford would be a good choice of dealership.&lt;/p&gt;
@@ -729,9 +729,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Free Whitepaper: Response #1</title>
-    <link href="http://complainist.com/letters/free-whitepaper"/>
+    <link href="http://sincerelylindawilson.com/letters/free-whitepaper"/>
     <updated>2008-08-06T23:21:41-05:00</updated>
-    <id>http://complainist.com/free-whitepaper-response-1</id>
+    <id>http://sincerelylindawilson.com/free-whitepaper-response-1</id>
     <content type="html">&lt;p&gt;Linda,&lt;/p&gt;
 
 &lt;p&gt;We refer to white papers as a guide or report to help inform potential customers on a specific product or service we offer. I apologize if this was not clear in our advertisement.&lt;/p&gt;
@@ -744,9 +744,9 @@ CDW&lt;/p&gt;
   
   <entry>
     <title>Free Whitepaper</title>
-    <link href="http://complainist.com/letters/free-whitepaper"/>
+    <link href="http://sincerelylindawilson.com/letters/free-whitepaper"/>
     <updated>2008-08-06T12:19:41-05:00</updated>
-    <id>http://complainist.com/free-whitepaper</id>
+    <id>http://sincerelylindawilson.com/free-whitepaper</id>
     <content type="html">&lt;p&gt;Dear CDW,&lt;/p&gt;
 
 &lt;p&gt;I recently saw your online advertisement for &quot;free whitepaper&quot; while I was browsing for a birthday present for my husband, and was intruiged.  Not being one to pass up a good deal, I clicked on the link and printed out the suggested files.  To my surprise, when the paper came out of my printer it already had writing on it.  Was this an error on my part, or is your link incorrect?  I was expecting plain white paper.&lt;/p&gt;
@@ -760,9 +760,9 @@ Linda B Wilson&lt;/p&gt;
   
   <entry>
     <title>Melted M&amp;Ms: Reply #1</title>
-    <link href="http://complainist.com/letters/m-and-ms"/>
+    <link href="http://sincerelylindawilson.com/letters/m-and-ms"/>
     <updated>2008-05-16T14:48:17-05:00</updated>
-    <id>http://complainist.com/melted-mms-reply-1</id>
+    <id>http://sincerelylindawilson.com/melted-mms-reply-1</id>
     <content type="html">&lt;p&gt;Dear M&amp;amp;Ms,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your speedy response, but I fear that you have misunderstood my problem.  The M&amp;amp;Ms in question were not in my hand at the time, but in my back pocket.&lt;/p&gt;
@@ -782,9 +782,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Melted M&amp;Ms: Response #1</title>
-    <link href="http://complainist.com/letters/m-and-ms"/>
+    <link href="http://sincerelylindawilson.com/letters/m-and-ms"/>
     <updated>2008-05-14T15:22:09-05:00</updated>
-    <id>http://complainist.com/melted-mms-response-1</id>
+    <id>http://sincerelylindawilson.com/melted-mms-response-1</id>
     <content type="html">&lt;p&gt;Thank you for your email.&lt;/p&gt;
 
 &lt;p&gt;Our advertising slogan actually reads; &quot;THE MILK CHOCOLATE MELTS IN YOUR MOUTH-NOT IN YOUR HANDS.&quot;  The objective of our advertising is to acquaint consumers with the fact that the candies are neat to eat under average conditions because they have a thin sugar shell protecting the chocolate centers.&lt;/p&gt;
@@ -797,9 +797,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Melted M&amp;Ms</title>
-    <link href="http://complainist.com/letters/m-and-ms"/>
+    <link href="http://sincerelylindawilson.com/letters/m-and-ms"/>
     <updated>2008-05-12T10:30:55-05:00</updated>
-    <id>http://complainist.com/mandms</id>
+    <id>http://sincerelylindawilson.com/mandms</id>
     <content type="html">&lt;p&gt;Dear M&amp;amp;Ms,&lt;/p&gt;
 
 &lt;p&gt;I once saw a commercial that claimed that your candy only melted inside mouths, so when I was searching for snacks for my recent desert survival retreat, I chose M&amp;amp;Ms.  On our trip, I slipped a handful of your candies into my back pocket to keep myself energized for our long hike, but after a few hours my hike-mates started giving me strange looks, often asking if I was feeling all right.  I realized what they were thinking later, when I discovered that the candies had melted completely, leaving a suspicious brown stain on my rear end.  Needless to say, I was mortified.&lt;/p&gt;
@@ -815,9 +815,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Tostitos Scoops: Response #1</title>
-    <link href="http://complainist.com/letters/tostitos-scoops"/>
+    <link href="http://sincerelylindawilson.com/letters/tostitos-scoops"/>
     <updated>2007-11-30T10:23:44-06:00</updated>
-    <id>http://complainist.com/tostitos-scoops-response-1</id>
+    <id>http://sincerelylindawilson.com/tostitos-scoops-response-1</id>
     <content type="html">&lt;p&gt;We appreciate your comments.  We do our best to provide consumers with a wide
 variety of great-tasting snack food choices.  Our chips are made to accompany
 regular dips for chips, not a texture as thick as ice cream.  Your feedback and
@@ -832,9 +832,9 @@ reach for Frito-Lay products whenever you are looking for great tasting snacks.&
   
   <entry>
     <title>Tostitos Scoops</title>
-    <link href="http://complainist.com/letters/tostitos-scoops"/>
+    <link href="http://sincerelylindawilson.com/letters/tostitos-scoops"/>
     <updated>2007-11-29T11:04:57-06:00</updated>
-    <id>http://complainist.com/tostitos-scoops</id>
+    <id>http://sincerelylindawilson.com/tostitos-scoops</id>
     <content type="html">&lt;p&gt;Dear Tostitos,&lt;/p&gt;
 
 &lt;p&gt;I recently purchased a bag of your &quot;Scoops&quot; tortilla chips, and was disappointed at how easily they break while scooping.  I have tried several different brands of ice cream with no luck -- the chips simply will not scoop satisfactorily.  Would you recommend a different product for this purpose, or do you think the problem is with the ice cream I'm using?  I have found that letting the ice cream melt for a little while improves matters, but I have yet to be fully satisfied.  I am hoping you sell a stronger chip, that would better suit my needs.&lt;/p&gt;
@@ -848,9 +848,9 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Force Flex Trash Bags</title>
-    <link href="http://complainist.com/letters/force-flex-trash-bags"/>
+    <link href="http://sincerelylindawilson.com/letters/force-flex-trash-bags"/>
     <updated>2007-09-26T15:03:10-05:00</updated>
-    <id>http://complainist.com/force-flex-trash-bags-email-2</id>
+    <id>http://sincerelylindawilson.com/force-flex-trash-bags-email-2</id>
     <content type="html">&lt;p&gt;Dear Glad,&lt;/p&gt;
 
 &lt;p&gt;Recently my family and I organized a neighborhood cleanup after our neighbor's house was vandalized by a local gang. We chose to use your Force Flex bags to gather up the debris because of the highly-acclaimed &quot;puncture protection&quot; your brand offers, while other brands do not.&lt;/p&gt;
@@ -866,9 +866,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Brookstone Gas Grill Cover: Response #2</title>
-    <link href="http://complainist.com/letters/brookstone-gas-grill-cover"/>
+    <link href="http://sincerelylindawilson.com/letters/brookstone-gas-grill-cover"/>
     <updated>2007-07-31T12:08:18-05:00</updated>
-    <id>http://complainist.com/brookstone-gas-grill-cover-response-2</id>
+    <id>http://sincerelylindawilson.com/brookstone-gas-grill-cover-response-2</id>
     <content type="html">&lt;p&gt;Dear Ms. Wilson,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your inquiry.&lt;/p&gt;
@@ -886,9 +886,9 @@ Elisha&lt;/p&gt;
   
   <entry>
     <title>Brookstone Gas Grill Cover: Reply #1</title>
-    <link href="http://complainist.com/letters/brookstone-gas-grill-cover"/>
+    <link href="http://sincerelylindawilson.com/letters/brookstone-gas-grill-cover"/>
     <updated>2007-07-31T09:50:38-05:00</updated>
-    <id>http://complainist.com/brookstone-gas-grill-cover-reply-1</id>
+    <id>http://sincerelylindawilson.com/brookstone-gas-grill-cover-reply-1</id>
     <content type="html">&lt;p&gt;I'm very disappointed to hear that, but it makes sense now that I think about it.  If the cover was designed for use while grilling, it would be able to handle the heat without melting.&lt;/p&gt;
 
 &lt;p&gt;I am still interested in protecting my grill while cooking, though.  Do you offer a product that has higher tolerance for heat, perhaps with vent holes?  I would really like to keep my grill in good condition.  It would also be great if that product came in green, like the one I have.&lt;/p&gt;
@@ -900,9 +900,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Brookstone Gas Grill Cover: Response #1</title>
-    <link href="http://complainist.com/letters/brookstone-gas-grill-cover"/>
+    <link href="http://sincerelylindawilson.com/letters/brookstone-gas-grill-cover"/>
     <updated>2007-07-31T09:36:49-05:00</updated>
-    <id>http://complainist.com/brookstone-gas-grill-cover-response-1</id>
+    <id>http://sincerelylindawilson.com/brookstone-gas-grill-cover-response-1</id>
     <content type="html">&lt;p&gt;Dear Ms. Wilson,&lt;/p&gt;
 
 &lt;p&gt;Thank you for your email.&lt;/p&gt;
@@ -920,9 +920,9 @@ Elisha&lt;/p&gt;
   
   <entry>
     <title>Brookstone Gas Grill Cover</title>
-    <link href="http://complainist.com/letters/brookstone-gas-grill-cover"/>
+    <link href="http://sincerelylindawilson.com/letters/brookstone-gas-grill-cover"/>
     <updated>2007-07-30T11:36:08-05:00</updated>
-    <id>http://complainist.com/brookstone-gas-grill-cover</id>
+    <id>http://sincerelylindawilson.com/brookstone-gas-grill-cover</id>
     <content type="html">&lt;p&gt;Dear Brookstone,&lt;/p&gt;
 
 &lt;p&gt;I recently purchased your Rectangular Gas Grill Cover to protect my new Weber grill, and while I am pleased with the overall look of the cover, I have had some trouble using it while grilling.  Although it fits snugly when the grill is closed, opening the grill is difficult while the cover is in place.  I managed to prevent it from slipping by fastening it more securely to the grill with some duct tape, but I do feel a better attachment mechanism should be included with the product.&lt;/p&gt;
@@ -938,27 +938,27 @@ Linda Wilson&lt;/p&gt;
   
   <entry>
     <title>Tempur-Pedic: Action Taken</title>
-    <link href="http://complainist.com/letters/tempur-pedic"/>
+    <link href="http://sincerelylindawilson.com/letters/tempur-pedic"/>
     <updated>2004-06-03T11:26:10-05:00</updated>
-    <id>http://complainist.com/tempur-pedic-action-taken</id>
+    <id>http://sincerelylindawilson.com/tempur-pedic-action-taken</id>
     <content type="html">&lt;p&gt;As of June 2003, Tempur-pedic's new commercials now do not use the &quot;glass of red wine&quot; example, but rather a &quot;glass of water&quot; example.  We have made a difference.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Tempur-Pedic: Response #1</title>
-    <link href="http://complainist.com/letters/tempur-pedic"/>
+    <link href="http://sincerelylindawilson.com/letters/tempur-pedic"/>
     <updated>2003-11-03T00:00:17-06:00</updated>
-    <id>http://complainist.com/tempur-pedic-response-1</id>
+    <id>http://sincerelylindawilson.com/tempur-pedic-response-1</id>
     <content type="html">&lt;p&gt;Unfortunately we can no offer any compensation for this.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Tempur-Pedic</title>
-    <link href="http://complainist.com/letters/tempur-pedic"/>
+    <link href="http://sincerelylindawilson.com/letters/tempur-pedic"/>
     <updated>2003-11-01T11:24:28-06:00</updated>
-    <id>http://complainist.com/tempur-pedic</id>
+    <id>http://sincerelylindawilson.com/tempur-pedic</id>
     <content type="html">&lt;p&gt;Dear Tempur-Pedic,&lt;/p&gt;
 
 &lt;p&gt;I recently saw your commercial advertising your pressure relieving mattresses. In the commercial, the man explained that on your mattress you can place a glass of red wine and jump on the bed without spilling the wine. You then suggested &quot;try THAT on your metal spring mattress&quot;. I did as the commercial suggested and was very disappointed in the results. The wine spilled and permanently stained my bed! I was wondering if your company would be willing to offer some sort of compensation or discount on one of your spill resistant mattresses to remedy this unfortunate situation.&lt;/p&gt;
@@ -970,9 +970,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Easy Bake Oven: Response #2</title>
-    <link href="http://complainist.com/letters/easy-bake-oven"/>
+    <link href="http://sincerelylindawilson.com/letters/easy-bake-oven"/>
     <updated>2003-01-25T00:00:43-06:00</updated>
-    <id>http://complainist.com/easy-bake-oven-response-2</id>
+    <id>http://sincerelylindawilson.com/easy-bake-oven-response-2</id>
     <content type="html">&lt;p&gt;Ms. Wilson, Your email concerning a recent incident with with your daughter's Easy Bake Oven has been forwarded to me for response but didn't have a phone number for you. Please call me at 1-800-XXX-7276, ext.
 XXXX at your convenience to discuss. Thank you.&lt;/p&gt;
 
@@ -983,9 +983,9 @@ Office of Corporate Compliance&lt;/p&gt;
   
   <entry>
     <title>Easy Bake Oven: Response #1</title>
-    <link href="http://complainist.com/letters/easy-bake-oven"/>
+    <link href="http://sincerelylindawilson.com/letters/easy-bake-oven"/>
     <updated>2003-01-22T11:22:48-06:00</updated>
-    <id>http://complainist.com/easy-bake-oven-response-1</id>
+    <id>http://sincerelylindawilson.com/easy-bake-oven-response-1</id>
     <content type="html">&lt;p&gt;Hi Linda,&lt;/p&gt;
 
 &lt;p&gt;Thank you for contacting Hasbro, Inc.&lt;/p&gt;
@@ -1000,9 +1000,9 @@ soon as we receive the information from them.&lt;/p&gt;
   
   <entry>
     <title>Easy Bake Oven</title>
-    <link href="http://complainist.com/letters/easy-bake-oven"/>
+    <link href="http://sincerelylindawilson.com/letters/easy-bake-oven"/>
     <updated>2003-01-17T00:00:09-06:00</updated>
-    <id>http://complainist.com/easy-bake-oven</id>
+    <id>http://sincerelylindawilson.com/easy-bake-oven</id>
     <content type="html">&lt;p&gt;Dear Mr. Hasbro,&lt;/p&gt;
 
 &lt;p&gt;My daughter, Denise, was given the easy bake oven as a birthday gift recently and last weekend I decided to put it to good use. I attempted to make my famous chicken kiev dish, but after sitting down to eat it my family realized the chicken was grossly undercooked. My youngest son, Aaron, stayed up vomiting all night as a result. Is this normal? I couldn't find any solution in the FAQ for this problem. Is my easy bake oven defective? If so, how do I get a replacement?&lt;/p&gt;
@@ -1016,9 +1016,9 @@ Linda B Wilson&lt;/p&gt;
   
   <entry>
     <title>Villain Supply</title>
-    <link href="http://complainist.com/letters/villain-supply"/>
+    <link href="http://sincerelylindawilson.com/letters/villain-supply"/>
     <updated>2002-08-09T11:21:15-05:00</updated>
-    <id>http://complainist.com/villain-supply</id>
+    <id>http://sincerelylindawilson.com/villain-supply</id>
     <content type="html">&lt;p&gt;Dear Mr. Villian,&lt;/p&gt;
 
 &lt;p&gt;I'm writing you concerning a certain product advertised on your website.
@@ -1046,9 +1046,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Pilsbury Toaster Strudel: Reply #1</title>
-    <link href="http://complainist.com/letters/pilsbury-toaster-strudel"/>
+    <link href="http://sincerelylindawilson.com/letters/pilsbury-toaster-strudel"/>
     <updated>2002-08-02T11:20:42-05:00</updated>
-    <id>http://complainist.com/pilsbury-toaster-strudel-reply-1</id>
+    <id>http://sincerelylindawilson.com/pilsbury-toaster-strudel-reply-1</id>
     <content type="html">&lt;p&gt;Thank you for your prompt reply. I am looking forward to seeing your new and improved ad campaign. I will keep an eye out for it.&lt;/p&gt;
 
 &lt;p&gt;Thanks again,&lt;br/&gt;
@@ -1058,9 +1058,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Pilsbury Toaster Strudel: Response #1</title>
-    <link href="http://complainist.com/letters/pilsbury-toaster-strudel"/>
+    <link href="http://sincerelylindawilson.com/letters/pilsbury-toaster-strudel"/>
     <updated>2002-08-01T00:00:47-05:00</updated>
-    <id>http://complainist.com/pilsbury-toaster-strudel-response-1</id>
+    <id>http://sincerelylindawilson.com/pilsbury-toaster-strudel-response-1</id>
     <content type="html">&lt;p&gt;Dear Ms. Wilson:&lt;/p&gt;
 
 &lt;p&gt;Thank you for contacting Pillsbury.  We are sorry you were disappointed with our advertising for Pillsbury Toaster Strudel.  Our intent is to encourage both potential and existing customers to use our products.  Your opinions are important to us and will be carefully reviewed with our marketing and advertising staff.&lt;/p&gt;
@@ -1076,9 +1076,9 @@ Consumer Services&lt;/p&gt;
   
   <entry>
     <title>Pilsbury Toaster Strudel</title>
-    <link href="http://complainist.com/letters/pilsbury-toaster-strudel"/>
+    <link href="http://sincerelylindawilson.com/letters/pilsbury-toaster-strudel"/>
     <updated>2002-07-30T00:00:52-05:00</updated>
-    <id>http://complainist.com/pilsbury-toaster-strudel-2</id>
+    <id>http://sincerelylindawilson.com/pilsbury-toaster-strudel-2</id>
     <content type="html">&lt;p&gt;Dear Pilsbury,&lt;/p&gt;
 
 &lt;p&gt;I have to question the validity of a certain Pop Tarts commercial I just saw. In this particular commercial a seemingly caring mother gives her son a pop tart while pushing him out the door for school. When he meets up with his other friend, he is given a pilsbury toaster strudel and seems thankful. The other friend asks the boy &quot;So, where do you put all those pop tarts?&quot;. The boy then pulls a garage door opener out of his pocket and pushes the button. The garage door opens and reveals a mountain of Pop Tarts spilling out of the garage.&lt;/p&gt;
@@ -1094,9 +1094,9 @@ Linda B Wilson&lt;/p&gt;
   
   <entry>
     <title>Subway: Reply 1</title>
-    <link href="http://complainist.com/letters/subway"/>
+    <link href="http://sincerelylindawilson.com/letters/subway"/>
     <updated>2002-07-26T10:15:57-05:00</updated>
-    <id>http://complainist.com/subway-reply-1</id>
+    <id>http://sincerelylindawilson.com/subway-reply-1</id>
     <content type="html">&lt;p&gt;Dear Mr. Potter,&lt;/p&gt;
 
 &lt;p&gt;The subway location I was reffering to is located on the corner of Victory Drive and Hoffman Road in Mankato. However, I had the same problem at the Subway on Riverfront Drive, as well as the one on Madison Avenue.&lt;/p&gt;
@@ -1109,9 +1109,9 @@ Linda B Wilson&lt;/p&gt;
   
   <entry>
     <title>Subway: Response #1</title>
-    <link href="http://complainist.com/letters/subway"/>
+    <link href="http://sincerelylindawilson.com/letters/subway"/>
     <updated>2002-07-25T11:16:46-05:00</updated>
-    <id>http://complainist.com/subway-response-1</id>
+    <id>http://sincerelylindawilson.com/subway-response-1</id>
     <content type="html">&lt;p&gt;Dear Mrs. Wilson,
 Thank you for contacting Subway.  I have received your comments and need to have a more exact location of the store you visited because there are several in the area.  Secondly, with requests for franchise information, you can call 1-800-888-4848 ext 1315 but I will also email your requests to that department.&lt;/p&gt;
 
@@ -1126,9 +1126,9 @@ Customer Care Representative&lt;/p&gt;
   
   <entry>
     <title>Subway</title>
-    <link href="http://complainist.com/letters/subway"/>
+    <link href="http://sincerelylindawilson.com/letters/subway"/>
     <updated>2002-07-25T08:15:53-05:00</updated>
-    <id>http://complainist.com/subway</id>
+    <id>http://sincerelylindawilson.com/subway</id>
     <content type="html">&lt;p&gt;Dear Subway,&lt;/p&gt;
 
 &lt;p&gt;Last month I purchased what I believed to be a 6 inch veggie sub. When I got home, I measured it, and it wasn't quite 6 inches. Was this just a mistake during my visit, or are they all not quite 6 inches? I just don't want people to get shorted a single millimeter of your delicious sandwiches.&lt;/p&gt;
@@ -1142,9 +1142,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Pepsi</title>
-    <link href="http://complainist.com/letters/pepsi"/>
+    <link href="http://sincerelylindawilson.com/letters/pepsi"/>
     <updated>2002-07-18T00:00:23-05:00</updated>
-    <id>http://complainist.com/pepsi</id>
+    <id>http://sincerelylindawilson.com/pepsi</id>
     <content type="html">&lt;p&gt;Dear Mr. Pepsi,&lt;/p&gt;
 
 &lt;p&gt;After a long hot day, I recently sat down to enjoy a crystal clear pepsi. However, upon tasting it I was shocked to find it was almost completely flat and had a funny flavor I can not describe. I know they're not SUPPOSED to taste like this which make me think the 12 pack I purchased is defective. I already tried taking it back to the store but they
@@ -1156,9 +1156,9 @@ informed me that they don't carry the product anymore. How do I go about getting
   
   <entry>
     <title>PowerAde</title>
-    <link href="http://complainist.com/letters/powerade"/>
+    <link href="http://sincerelylindawilson.com/letters/powerade"/>
     <updated>2002-07-17T16:00:20-05:00</updated>
-    <id>http://complainist.com/powerade</id>
+    <id>http://sincerelylindawilson.com/powerade</id>
     <content type="html">&lt;p&gt;Dear Mr. or Ms. Powerade,&lt;/p&gt;
 
 &lt;p&gt;I am writing you in concern of urination problems associated with Powerade. I recently purchased your 32. oz fruit punch, and I went to the bathroom many times because of it. I was not drinking any other beverage at the time. Is this normal? Also, I question the validity of a woman drinking powerade and then jumping over a bridge. I find that it is not possible to do, and I'm fearful for the people who are trying it.&lt;/p&gt;
@@ -1170,9 +1170,9 @@ Linda B. Wilson&lt;/p&gt;
   
   <entry>
     <title>Papa Johns</title>
-    <link href="http://complainist.com/letters/papa-johns"/>
+    <link href="http://sincerelylindawilson.com/letters/papa-johns"/>
     <updated>2002-07-17T11:09:52-05:00</updated>
-    <id>http://complainist.com/papa-johns</id>
+    <id>http://sincerelylindawilson.com/papa-johns</id>
     <content type="html">&lt;p&gt;Dear Mr. John&lt;/p&gt;
 
 &lt;p&gt;I'm writing to you concerning one of your advertisements I saw. You advertised your Volcano Pizza, which sounded very good to me. I decided to pick one on my way home from the Minneapolis area. When I ordered, your employees laughed like I was telling a joke. When it was clear that I was not laughing with them, they rudely told me they don't offer that pizza at this location. I left a bit distraught, as I didn't know what I'd tell my family. They were all looking forward to trying this &quot;Volcano Pizza&quot; we had heard so much about. Please let me know where or when I will be able to purchase this product.&lt;/p&gt;

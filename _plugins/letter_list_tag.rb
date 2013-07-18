@@ -15,18 +15,24 @@ module Jekyll
          letters[category][:favorite] ||= post.data['favorite']
        end
        
-       html = "<ul>"
-       letters = letters.sort_by { |l| l[1][:date] }.reverse # sort by date
-       
-       
-       html << print_letters(letters)
-       
+       html = "<h3>Editor's Picks</h3>"
+       html << "<ul>"
+       favorites = letters.sort_by { |l| l[1][:date] }.reverse.select { |l| l[1][:favorite] } # sort by date
+       html << print_letters(favorites)
        html << "</ul>"
+ 
+       html << "<h3>By Date</h3>"       
+       html << "<ul>"
+       letters = letters.sort_by { |l| l[1][:date] }.reverse # sort by date
+       html << print_letters(letters)
+       html << "</ul>"
+       
        html
      end
      
      def print_letters(letters)
        html = ""
+       
        letters.each do |category, data|
          if data[:title] #only take originals
            if data[:favorite]

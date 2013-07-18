@@ -340,12 +340,14 @@ header nav {
 .letter-list h3 {
   color:#666;
   font-size:16px;
-  font-style:italic;
+  margin-bottom:0px;
+/*  font-style:italic;*/
   font-weight:normal;
 }
 
 .letter-list ul {
-  margin:0;
+  margin-top:5px;
+  margin-bottom:40px;
   padding:0;
   list-style:none;
 }

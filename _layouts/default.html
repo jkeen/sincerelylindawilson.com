@@ -12,7 +12,9 @@
     <div class="content">
       {{content}}
     </div>
-    {% include letter_list.html %}
+    <aside class="letter-list">
+      {{ false | letter_list }}
+    </aside>
 	</div>
   {% include footer.html %}
   {% include scripts.html %}

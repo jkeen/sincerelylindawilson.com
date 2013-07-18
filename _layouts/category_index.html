@@ -32,7 +32,6 @@
           
           {{ post.editors_note | editors_note }}
           {% endif %}
-          
 
           <div class="letter-content">
             {{ post.content | markdownify }}
@@ -43,7 +42,9 @@
       </div>
       {% endfor %}
     </div>
-    {% include letter_list.html %}
+    <aside class="letter-list">
+      {{ page.category | letter_list }}
+    </aside>
 	</div>
   {% include footer.html %}
   {% include scripts.html %}

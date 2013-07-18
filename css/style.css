@@ -252,14 +252,15 @@ a:hover {
 a.box-link, a.box-link:visited {
   white-space:nowrap;
   padding:3px 6px;
-  background-color:#EEE;
-  border:1px solid #DDD;
+/*  background-color:#EEE;*/
+  border:1px solid #EEE;
   color:#666;
   font-size:13px;
   text-decoration:none;
+  border-radius:3px;
 }
 
-a.box-link:hover {
+a.box-link:hover, li.selected a.box-link {
   background-color: #FF4B33; 
   color:#FFF;
   border-color:#861C17;
@@ -380,12 +381,14 @@ header nav {
 }
 
 .letter-list span {
-  color:#FF4833;
+  color:#CCC;
   display:inline-block;
   margin-left:5px;
   font-size:10px;
 }
-
+.letter-list span:after {
+  content: " replies";
+}
 
 .letter-box {
   width:275px;
@@ -479,6 +482,7 @@ header nav {
     float:left;
   }
   .letter-list {
+    margin-top:18px;
     float:right;
     width:30%;
   }

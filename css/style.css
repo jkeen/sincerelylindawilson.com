@@ -267,21 +267,22 @@ a.box-link:hover, li.selected a.box-link {
 }
 
 a.view-response {
-  background-color:#EEE;
   color:#D66C5E;
   text-decoration:none;
   font-size:14px;
   padding:5px 10px;
   border:1px solid #DDD;
+  position:relative;
+  left:-10px;
+  border-radius:5px;
 }
 a.view-response:after {
   content: "»";
   margin-left:10px;
 }
 a.view-response:hover {
-  background-color: #FF4B33; 
-  color:#FFF;
-  border-color:#861C17;
+  border-color:#AAA;
+  
 }
 
 header nav {
@@ -420,7 +421,7 @@ header nav {
   color:#555;
   padding:3px 5px;
   position:relative;
-  left:-18px;
+  left:-15px;
 }
 
 .address:before {

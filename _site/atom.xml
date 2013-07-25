@@ -3,12 +3,27 @@
   <title>Sincerely, Linda Wilson</title>
   <link href="http://sincerelylindawilson.com/atom.xml" rel="self"/>
   <link href="http://sincerelylindawilson.com/"/>
-  <updated>2013-07-25T09:59:47-05:00</updated>
+  <updated>2013-07-25T10:14:25-05:00</updated>
   <id>http://sincerelylindawilson.com/</id>
   <author>
     <name>Linda Wilson</name>
     <email></email>
   </author>
+  
+  <entry>
+    <title>Wonderful Pistachios</title>
+    <link href="http://sincerelylindawilson.com/letters/pistachios"/>
+    <updated>2013-07-25T10:14:00-05:00</updated>
+    <id>http://sincerelylindawilson.com/wonderful-pistachios-response-4</id>
+    <content type="html">&lt;p&gt;Mrs. Wilson,
+We will be mailing product replacement vouchers. The letter and coupons will be in a regular sized envelope.&lt;/p&gt;
+
+&lt;p&gt;Also, to answer your question regarding a tour of the pistachio farm. I apologize but, we do not offer tours of our plant or farms at this time.&lt;/p&gt;
+
+&lt;p&gt;Thank you,&lt;br/&gt;
+Ashley Fuller&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Wonderful Pistachios</title>

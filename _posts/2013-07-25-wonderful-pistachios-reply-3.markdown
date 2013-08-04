@@ -9,7 +9,7 @@ company: Wonderful Pistachios
 
 Oh! Sorry!
 
-My mailbox isn't that big, so depending on on many pistachios you send they might not fit. If it's a big package please put it on the back patio.
+My mailbox isn't that big, so depending on many pistachios you send they might not fit. If it's a big package please put it on the back patio.
 
 Linda Wilson,<br/>
 [Address Redacted]

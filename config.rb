@@ -93,6 +93,14 @@ helpers do
     end
   end
   
+  def page_title
+    if page_articles
+      original_letter_from_related(page_articles.first).data.title
+    else
+      current_page.data.title 
+    end
+  end
+  
   def post_date(letter)
     (letter.data.post_date || letter.data.date).strftime("%m/%d/%y")
   end

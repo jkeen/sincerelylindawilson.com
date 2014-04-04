@@ -20,10 +20,10 @@
    <h4 class='address'>
      <strong><%= from_name(post) %></strong> to <%= to_name(post) %>
    </h4>
-   <% end %>
    <span class="letter-date">
      <%= post.data.date.strftime("%A, %m/%d/%y, %I:%M %P") %>
    </span>
+   <% end %>
  </div>
   <% if post.data.editors_note %>
     <p class='notes'>Editors Note: <%=  post.data.editors_note %></p>

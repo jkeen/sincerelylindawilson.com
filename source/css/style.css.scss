@@ -84,6 +84,10 @@ header nav {
   margin-top:10px;
 }
 
+.navbar-default .navbar-toggle {
+ margin-right:0; 
+}
+
 
 
 /* Letter Styles */
@@ -96,7 +100,7 @@ header nav {
 }
 .view-response a {
   position:relative;
-  top:18px;
+  top:17px;
   background-color:#FFF;
   padding:0 10px;
 }
@@ -140,10 +144,9 @@ header nav {
 }
 
 .letter-title + .post-date {
-  position:absolute;
-  right:0;
-  top:7px;
   color:#CCC;
+  float:right;
+  line-height:29px;
 }
 
 .letter-title, .letter-title a {
@@ -314,16 +317,13 @@ header nav {
   
   .hide-desktop {
     display: none !important;
-  }
+  }  
 }
 
 @media (max-width: $screen-sm-min) {
   .hide-mobile {
     display: none !important;
   }
-}
-
-@media (max-width: $screen-sm-min) {
   .navbar-nav > li > a {
     padding-left:0;
     padding-right:0;
@@ -332,6 +332,33 @@ header nav {
    header .navbar-default .navbar-brand {
     font-size:23px;
   }
+  .letter-title {
+    width:80%;
+  }
+  .letter-title + .post-date {
+    font-size:14px; 
+  }
+  .pagination-container .pager {
+    font-size:14px; 
+  }
+  .letter-title, .letter-title a {
+    font-size:24px; 
+  }
+  
+}
+
+@media (max-width: 360px) {
+   header .navbar-default .navbar-brand {
+    font-size:20px;
+  }  
+   .wrapper {
+    padding: 5px; 
+   }
+  
+  .pagination-container .pager {
+    font-size:12px; 
+  }
+
 }
 
 

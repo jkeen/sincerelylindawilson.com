@@ -1,0 +1,13 @@
+  <aside class="letter-list hide-mobile">
+    <h3>Letters</h3>
+    <ul>
+      <% letter_list(current_letter).each do |category, data| %>
+        <li class="<%= 'favorite' if data[:favorite] %> <%= 'selected' if data[:selected] %>">
+          <% link_to "/letters/#{category}" do %>
+            <i class="glyphicon glyphicon-star"></i>
+            <%= data[:title] %>
+          <% end %>
+        </li>
+      <% end %>
+    </ul>
+  </aside>

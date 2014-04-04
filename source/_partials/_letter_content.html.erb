@@ -1,0 +1,38 @@
+<% if post.data.type == "original" %>
+  <div class="letter-header">
+    <h2 class="letter-title">
+      <%= link_to post.data.title, post %>
+    </h2>
+    <span class="post-date">
+      <%= post_date(post) %>
+    </span>
+    <% if post.data.image %>
+      <div class="header-image" style="background-image:url( <%= post.data.image %> )"></div>
+    <% end %>
+  </div>
+<% else %>
+
+<% end %>
+
+<% if post.data.type != "notes" %> 
+ <div class="letter-meta-data">
+   <% if post.data.type != 'original' %>
+   <h4 class='address'>
+     <strong><%= from_name(post) %></strong> to <%= to_name(post) %>
+   </h4>
+   <% end %>
+   <span class="letter-date">
+     <%= post.data.date.strftime("%A, %m/%d/%y, %I:%M %P") %>
+   </span>
+ </div>
+  <% if post.data.editors_note %>
+    <p class='notes'>Editors Note: <%=  post.data.editors_note %></p>
+  <% end %>
+<% end %>
+
+<div class="letter-content">
+  <%= post.body %>
+</div>
+<% if post.data.type == "original" %>
+  <span id="response"></span>
+<% end %>

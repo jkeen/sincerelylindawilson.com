@@ -1,6 +1,11 @@
-source :gemcutter
-gem 'rack'
-gem 'rack-contrib', :git => 'git://github.com/rack/rack-contrib.git'
-gem 'rack-rewrite', :git => 'git://github.com/jtrupiano/rack-rewrite.git'
-gem 'jekyll'
-gem 'rdiscount'
+source 'http://rubygems.org'
+
+ruby "2.0.0"
+
+gem "middleman", "~> 3.2.2"
+gem "middleman-blog", "~> 3.5.2"
+gem "rack-contrib"
+gem "puma"
+
+# For feed.xml.builder
+gem "builder", "~> 3.0"

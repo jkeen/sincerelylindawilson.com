@@ -1,23 +1,28 @@
-# # Static site using Rack (with expire headers and etag support)... great for hosting static sites on Heroku
-# 
-require "bundler/setup"
+require "rubygems"
 
-require 'rack/contrib'
-require 'rack-rewrite'
+require "rack"
+require "middleman/rack"
+require "rack/contrib/try_static"
 
-use Rack::StaticCache, :urls => ['/images','/css','/favicon.ico', '/js', '/apple-touch-icon.png', 'robots.txt'], :root => "_site"
-use Rack::ETag
-use Rack::Rewrite do
-  rewrite '/', '/index.html'  
-  rewrite '/feed', '/atom.xml'
-  rewrite %r{(.+/?)(\?.*)$}, '$1/index.html$2'
-  rewrite %r{(.+/?)$}, '$1/index.html'
-end
+# Build the static site when the app boots
+`bundle exec middleman build`
 
-# Middleware
-use Rack::ShowStatus      # Nice looking 404s and other messages
-use Rack::ShowExceptions  # Nice looking errors
+# Enable proper HEAD responses
+use Rack::Head
+# Attempt to serve static HTML files
+use Rack::TryStatic,
+    :root => "tmp",
+    :urls => %w[/],
+    :try => ['.html', 'index.html', '/index.html']
 
-run Rack::URLMap.new( {
-  "/" => Rack::Directory.new( "_site" )
-} )
+# Serve a 404 page if all else fails
+run lambda { |env|
+  [
+    404,
+    {
+      "Content-Type"  => "text/html",
+      "Cache-Control" => "public, max-age=60"
+    },
+    File.open("tmp/404/index.html", File::RDONLY)
+  ]
+}

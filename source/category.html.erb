@@ -1,0 +1,27 @@
+---
+title: Letters from a naive 40-something midwestern woman.
+---
+
+<div class="full-exchange">
+  <% page_articles.reverse.each do |post| %>
+    <div class="letter <%= post.data.type %>">
+      <%= partial(:letter_content, :locals => {:post => post}) %>
+    </div>
+  <% end %>
+</div>
+
+<div class="pagination-container">
+  <ul class="pager">
+    <% if (letter = previous_letter(page_articles.first)) %>
+      <li class="previous">
+        <%= link_to "&larr; #{letter.data.title}", letter %>
+      </li>
+    <% end %>
+    
+    <% if (letter = next_letter(page_articles.first)) %>
+      <li class="next">
+        <%= link_to "#{letter.data.title} &rarr;", letter %>
+      </li>
+    <% end %>
+  </ul>
+</div>

@@ -1,0 +1,386 @@
+/* Variables */
+$highlight_color: #00A876;
+$link-color: tint($highlight_color, 20%);
+$brand-primary: $highlight_color;
+
+@import "bootstrap";
+
+
+a:visited {
+  color:tint($highlight_color, 40%);
+}
+
+a:hover {
+  color:$highlight_color;
+}
+
+body{
+  font-size: 16px;
+  font-family:"proxima-nova", Helvetica Neue, Helvetica, Arial, sans-serif;
+  border-top:5px solid $highlight_color;
+}
+
+.wrapper{
+  margin:auto;
+  max-width:890px;
+  padding: 10px 15px;
+}
+
+.pagination-container {
+
+  margin-top:80px; 
+}
+
+/* Header Styles */
+
+#header {
+  padding-top:0;
+  border-bottom:1px solid #CCC;
+}
+
+header .navbar-default {
+  background-color:#FFF;
+  border:0;
+}
+
+header .navbar {
+  margin-bottom:0; 
+}
+
+header .navbar-default .navbar-brand {
+  margin:0 0 5px 0;
+  padding:10px 0;
+  color:#333;
+  font-size:30px;
+  line-height:30px;
+  font-weight:bold;
+  font-family:"adelle", Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+header h1 a, header h1 a:visited{
+  text-decoration:none;
+  color:#000;
+}
+
+header .navbar-brand:hover {
+  color:$highlight_color!important;
+}
+
+header .navbar-tagline {
+  display:block;
+  font-weight:normal;
+  font-size:15px;
+  color:#666;
+  position:relative;
+  clear:both;
+  top: -7px;
+}
+
+header nav ul li{
+  display:inline;
+}
+
+header nav {
+  margin-top:10px;
+}
+
+
+
+/* Letter Styles */
+
+.view-response {
+  display:block;
+  padding:5px 10px;
+  border-bottom:1px solid #EEE;
+  text-align:center;
+}
+.view-response a {
+  position:relative;
+  top:18px;
+  background-color:#FFF;
+  padding:0 10px;
+}
+
+.header-image {
+  margin-top:10px;
+  margin-bottom:20px;
+  border-radius:5px;
+  height:150px;
+  width:auto;
+  background-position:top center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+.letter-header {
+  position:relative;
+  margin-top:10px;
+}
+
+.letter + .letter {
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+.full-exchange .letter + .letter {
+  border-top:1px solid #CCC;
+}
+
+.letter-content p {
+  font-family: "proxima-nova",serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height:26px;
+}
+
+.letter-content li {
+  line-height:26px;
+  list-style-type:square;
+  margin-bottom:5px;
+}
+
+.letter-title + .post-date {
+  position:absolute;
+  right:0;
+  top:7px;
+  color:#CCC;
+}
+
+.letter-title, .letter-title a {
+  color:#333;
+  font-size:28px;
+  font-weight:bold;
+  font-family:"Adelle";
+  text-decoration:none!important;
+  margin-bottom:5px;
+  display:inline-block;
+  margin-top:0;
+}
+
+.letter-title a:hover {
+  color:$highlight_color;
+}
+
+.letter-list {
+  margin-left:-5px;
+}
+
+.letter-list h3 {
+  color:#888;
+  font-size:16px;
+  margin-bottom:10px;
+/*  font-style:italic;*/
+  font-weight:normal;
+  margin-left:5px;
+}
+
+.letter-list ul {
+  margin-top:5px;
+  margin-bottom:40px;
+  padding:0;
+  list-style:none;
+}
+
+.letter-list li {
+  list-style: none;
+  margin:10px 0;
+}
+
+.letter-list li {
+  position:relative;
+  
+  i {
+    color: shade(gold, 20%);
+    opacity:0.5;
+    visibility: hidden;
+    font-weight:bold;
+    position: absolute;
+    top: 6px;
+    left: -12px;
+  }
+  
+  a, a:visited {
+    display:block;
+    white-space:nowrap;
+    padding:3px 6px 3px 4px;
+    margin:0 2px;
+    color:#666;
+    font-size:14px;
+    text-decoration:none;
+    border-radius:3px;
+
+  }
+
+  a:hover {
+    color:$highlight_color;
+    border-color:shade($highlight_color, 30%);
+  }
+  &.selected a {
+    font-weight:bold;
+    color:$highlight_color;
+  }
+}
+
+.letter-list li.favorite {
+  i { 
+    visibility: visible; 
+  }
+}
+
+.letter-list li a {
+  font-family:"proxima-nova";
+}
+
+.letter-list span {
+  color:#CCC;
+  display:inline-block;
+  margin-left:5px;
+  font-size:10px;
+}
+.letter-list span:after {
+  content: " replies";
+}
+
+.letter-meta-data {
+  margin-bottom:15px;
+  overflow:hidden;
+
+  .address {
+    font-weight:normal;
+    color:#555;
+    position:relative;
+    margin-bottom:2px;
+  }
+  
+  .letter-date {
+    color:#666;
+    font-size:15px;
+  }
+}
+
+.notes {
+  font-size:13px;
+  padding:5px;
+  margin-left:-5px;
+  background-color:#FFFEF5;
+}
+
+.address strong {
+ color: $highlight_color;
+}
+
+#footer {
+  display:block;
+  margin-top:30px;
+  font-size:15px;
+  color:#888;
+}
+
+.about h4 {
+  margin-bottom:5px;
+}
+
+
+/* =============================================================================
+   PLACEHOLDER Media Queries for Responsive Design.
+   These override the primary ('mobile first') styles
+   Modify as content requires.
+   ========================================================================== */
+
+@media (min-width: $screen-xs-max) {
+  /* Style adjustments for viewports 480px and over go here */
+  #main {
+    overflow:hidden;
+  }
+  .header-image {
+    height:175px; 
+  }
+
+  .content {
+    width:70%;
+    float:left;
+  }
+  .letter-list {
+    float:right;
+    width:20%;
+  }
+  header, footer {
+    clear:left;
+    overflow:hidden;
+  }
+  header .navbar-tagline {
+    margin-left:-15px;
+  }
+  
+  .hide-desktop {
+    display: none !important;
+  }
+}
+
+@media (max-width: $screen-sm-min) {
+  .hide-mobile {
+    display: none !important;
+  }
+}
+
+@media (max-width: $screen-sm-min) {
+  .navbar-nav > li > a {
+    padding-left:0;
+    padding-right:0;
+  } 
+  
+   header .navbar-default .navbar-brand {
+    font-size:23px;
+  }
+}
+
+
+
+/* =============================================================================
+   Non-semantic helper classes
+   Please define your styles before this section.
+   ========================================================================== */
+
+/* For image replacement */
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+.ir br { display: none; }
+
+/* Hide for both screenreaders and browsers:
+   css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden { display: none; visibility: hidden; }
+
+/* Hide only visually, but have it available for screenreaders: by Jon Neal.
+  www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden */
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: drupal.org/node/897638 */
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible { visibility: hidden; }
+
+/* Contain floats: nicolasgallagher.com/micro-clearfix-hack/ */ 
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+
+/* =============================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+ 
+@media print {
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } /* Black prints faster: sanbeiji.com/archives/953 */
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img { page-break-inside: avoid; }
+  img { max-width: 100% !important; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+}

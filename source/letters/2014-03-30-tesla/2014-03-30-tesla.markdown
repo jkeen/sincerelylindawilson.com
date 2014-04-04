@@ -1,0 +1,20 @@
+---
+layout: post
+title: Tesla
+post_date: 2014-04-03 12:01:00 -05:00
+date: 2014-03-30 12:01:00 -05:00
+category: tesla
+type: original
+company: Tesla
+favorite: true
+image: /images/tesla.jpg
+---
+
+Dear Tesla,
+
+I’m thinking of getting one of your cars, but am a little concerned about the gas mileage. How many gallons of electricity do your cars take? My Honda CRV takes 15 gallons of gas and it lasts me the week, as long as I don’t drive to Milwaukee to visit my cousin Brenda.
+
+I’m also wondering if I can still fill up at my Chevron station? I have a chevron credit card and don’t want to lose my points.
+
+Thank you,<br/>
+Linda B. Wilson

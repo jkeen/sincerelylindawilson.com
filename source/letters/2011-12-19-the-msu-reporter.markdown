@@ -5,7 +5,7 @@ date: 2011-11-01 11:42:00 -05:00
 category: msu-reporter
 type: original
 company: Them Sure Porter
-editors_note: The MSU Reporter's website is <a href="http://themsureporter.com">themsureporter.com</a>, which is a terrible domain name.
+editors_note: The MSU Reporter is a college newspaper but their awful URL (themsureporter.com) looks like "Them Sure Porter".
 ---
 
 Dear Them Sure Porter,

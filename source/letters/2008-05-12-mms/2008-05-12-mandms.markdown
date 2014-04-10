@@ -6,6 +6,7 @@ date: 2008-05-12 10:30:55 -05:00
 category: m-and-ms
 type: original
 company: M&Ms
+image: /images/mandms.jpg
 ---
 Dear M&Ms,
 

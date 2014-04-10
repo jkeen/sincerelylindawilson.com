@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Anytime Fitness
+post_date: 2014-04-10 10:25:00 -05:00
 date: 2014-03-27 12:21:00 -05:00
 category: anytime-fitness
 type: original
 company: Anytime Fitness
 favorite: true
 image: /images/anytime_fitness.jpg
-hidden: true
 ---
 
 Dear Anytime Fitness,

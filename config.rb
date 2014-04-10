@@ -121,7 +121,7 @@ helpers do
       end
     end
     
-    letters.sort_by { |l| l[1][:date] }.reverse # sort by date
+    letters.sort_by { |l| (l[1][:post_date] || l[1][:date]) }.reverse # sort by date
     
     return letters
   end
@@ -132,7 +132,7 @@ helpers do
   
   def original_letters
     # the first letters in the 
-    blog.articles.select {|a| a.data.type == 'original' && !a.data.hidden }
+    blog.articles.select {|a| a.data.type == 'original' && !a.data.hidden }.sort_by { |l| (l.data[:post_date] || l.data[:date]) }.reverse 
   end
   
   def original_letter_from_related(related_letter)
@@ -210,7 +210,7 @@ ready do
   page_num = 1
   letters = original_letters
   
-  while start_index <= letters.size    
+  while start_index <= letters.size
     proxy "p/#{page_num}.html", "index.html", :locals => { 
         :paged_original_letters => letters.slice(start_index, per_page_count), 
         :current_page_num => page_num

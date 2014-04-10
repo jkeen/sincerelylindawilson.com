@@ -10,9 +10,9 @@ Dear Glad,
 
 Recently my family and I organized a neighborhood cleanup after our neighbor's house was vandalized by a local gang. We chose to use your Force Flex bags to gather up the debris because of the highly-acclaimed "puncture protection" your brand offers, while other brands do not.
 
-Surprisingly, the shards of broken glass and several boards with nails were no match for these bags. I was disappointed and embarrassed that the bags I publicly supported broke and spilled their contents in front of all my neighbors.
+Surprisingly, the bags were no match for the shards of broken glass and several boards filled with nails. I was disappointed and embarrassed that the bags I publicly supported broke and spilled their contents in front of all my neighbors.
 
-I was wondering if the bags I purchased are defective, or if Iâ€™m using them incorrectly? Should I have double bagged? Do you have a product that is designed to withstand greater force?
+I was wondering if the bags I purchased are defective, or if I'm just using them incorrectly? Should I have double bagged? Do you have a product that is designed to withstand greater force?
 
-Sincerely,  
+Sincerely,
 Linda B. Wilson

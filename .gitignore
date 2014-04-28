@@ -1,3 +1,4 @@
 development
 tmp
 .cache
+.DS_Store

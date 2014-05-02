@@ -5,7 +5,7 @@ post_date: 2014-04-27 12:01:00 -05:00
 date: 2014-04-26 09:00:00 -05:00
 category: applebees
 type: original
-company: Applebees
+company: Applebee's
 image: /images/applebees.jpg
 ---
 

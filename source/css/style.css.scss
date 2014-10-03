@@ -318,6 +318,10 @@ header nav {
   .hide-desktop {
     display: none !important;
   }  
+  
+  .navbar-nav.navbar-right:last-child {
+    margin-right:8px;
+  }
 }
 
 @media (max-width: $screen-sm-min) {
